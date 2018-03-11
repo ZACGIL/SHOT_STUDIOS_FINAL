@@ -1,0 +1,1402 @@
+﻿Log file open, 03/11/18 01:56:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SHOT_STUDIOS_MASTER
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-754327490) SRandInit(-754327490).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 11.426072
+LogD3D11RHI: Aftermath initialized
+LogConfig: Warning: Failed to saved backup for config[Editor]
+LogConfig: Warning: Failed to saved backup for config[EditorSettings]
+LogConfig: Warning: Failed to saved backup for config[EditorKeyBindings]
+LogConfig: Warning: Failed to saved backup for config[Compat]
+LogConfig: Warning: Failed to saved backup for config[Hardware]
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogConfig: Warning: Failed to saved backup for config[Paper2D]
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogConfig: Warning: Failed to saved backup for config[NullSourceCodeAccess]
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogConfig: Warning: Failed to saved backup for config[PerforceSourceControl]
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogConfig: Warning: Failed to saved backup for config[SubversionSourceControl]
+LogPluginManager: Mounting plugin UObjectPlugin
+LogConfig: Warning: Failed to saved backup for config[UObjectPlugin]
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogConfig: Warning: Failed to saved backup for config[XCodeSourceCodeAccess]
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogConfig: Warning: Failed to saved backup for config[MobileLauncherProfileWizard]
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogConfig: Warning: Failed to saved backup for config[SpeedTreeImporter]
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogConfig: Warning: Failed to saved backup for config[CharacterAI]
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogConfig: Warning: Failed to saved backup for config[WmfMedia]
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogConfig: Warning: Failed to saved backup for config[OnlineSubsystemIOS]
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogConfig: Warning: Failed to saved backup for config[AndroidDeviceProfileSelector]
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogConfig: Warning: Failed to saved backup for config[ArchVisCharacter]
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogConfig: Warning: Failed to saved backup for config[CustomMeshComponent]
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogConfig: Warning: Failed to saved backup for config[OculusVR]
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.10-14.56.38:652][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.10-14.56.38:652][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.10-14.56.38:814][  0]LogInit: Computer: DESKTOP-VCTKPF9
+[2018.03.10-14.56.38:814][  0]LogInit: User: veeking
+[2018.03.10-14.56.38:814][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.03.10-14.56.38:814][  0]LogInit: High frequency timer resolution =3.613281 MHz
+[2018.03.10-14.56.38:815][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.03.10-14.56.38:815][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.10-14.56.38:815][  0]LogMemory: Process Physical Memory: 273.03 MB used, 273.03 MB peak
+[2018.03.10-14.56.38:815][  0]LogMemory: Process Virtual Memory: 269.16 MB used, 269.16 MB peak
+[2018.03.10-14.56.38:815][  0]LogMemory: Physical Memory: 3650.84 MB used,  4492.50 MB free, 8143.34 MB total
+[2018.03.10-14.56.38:815][  0]LogMemory: Virtual Memory: 678.08 MB used,  4492.50 MB free, 134217728.00 MB total
+[2018.03.10-14.56.39:796][  0]LogInit: Using OS detected language (en-US).
+[2018.03.10-14.56.39:796][  0]LogInit: Using OS detected locale (en-US).
+[2018.03.10-14.56.40:184][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.03.10-14.56.41:046][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.10-14.56.46:867][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.10-14.56.46:967][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2018.03.10-14.56.46:967][  0]LogD3D11RHI:       2028/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.03.10-14.56.46:971][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.10-14.56.46:971][  0]LogD3D11RHI:       0/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.10-14.56.46:971][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.10-14.56.46:976][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.10-14.56.46:978][  0]LogD3D11RHI:     GPU DeviceId: 0x6810 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.10-14.56.46:978][  0]LogWindows: EnumDisplayDevices:
+[2018.03.10-14.56.46:979][  0]LogWindows:    0. 'AMD Radeon R9 200 Series' (P:1 D:1)
+[2018.03.10-14.56.46:979][  0]LogWindows:    1. 'AMD Radeon R9 200 Series' (P:0 D:1)
+[2018.03.10-14.56.46:979][  0]LogWindows:    2. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.03.10-14.56.46:979][  0]LogWindows:    3. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.03.10-14.56.46:980][  0]LogWindows:    4. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.03.10-14.56.46:980][  0]LogWindows:    5. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.03.10-14.56.46:980][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.10-14.56.46:980][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 Series
+[2018.03.10-14.56.46:980][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.10-14.56.46:980][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.10-14.56.46:980][  0]LogRHI: Texture pool is 1419 MB (70% of 2028 MB)
+[2018.03.10-14.56.47:052][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.10-14.56.47:411][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.03.10-14.56.47:477][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Intermediate/Shaders/WorkingDirectory/10700/).
+[2018.03.10-14.56.47:477][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/veeki/AppData/Local/Temp/UnrealShaderWorkingDir/30706BAD4A8119561082D6AABD0D99FF/'.
+[2018.03.10-14.56.47:479][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.10-14.56.53:588][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.10-14.56.53:661][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.10-14.56.53:727][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.10-14.56.53:790][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.10-14.56.53:857][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.10-14.56.53:926][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.10-14.56.53:996][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.10-14.56.54:069][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.10-14.56.54:140][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.10-14.56.54:251][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.10-14.56.54:375][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.10-14.56.54:480][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.10-14.56.54:594][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.10-14.56.54:674][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.10-14.56.54:933][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.10-14.56.54:933][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.10-14.56.55:124][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.10-14.56.55:222][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.10-14.56.55:473][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.10-14.56.55:528][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.10-14.56.55:607][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.10-14.56.55:700][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.10-14.56.55:820][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.10-14.56.55:929][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.10-14.56.55:929][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.10-14.56.58:609][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.10-14.57.00:042][  0]LogDerivedDataCache: Loaded boot cache 1.39s 78MB C:/Users/veeki/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.10-14.57.00:042][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/veeki/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.10-14.57.00:042][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.10-14.57.00:042][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.10-14.57.00:042][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.10-14.57.00:042][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.10-14.57.00:196][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.10-14.57.00:307][  0]LogDerivedDataCache: Using Local data cache path C:/Users/veeki/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.10-14.57.00:450][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.10-14.57.00:541][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.10-14.57.00:631][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.10-14.57.00:650][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.10-14.57.08:283][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.10-14.57.10:584][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.10-14.57.10:647][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.10-14.57.10:648][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.10-14.57.10:648][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.10-14.57.10:648][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.10-14.57.10:648][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.10-14.57.11:390][  0]LogNetVersion: SHOT_STUDIOS_MASTER , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2059099905)
+[2018.03.10-14.57.14:023][  0]LogAssetRegistry: FAssetRegistry took 0.0697 seconds to start up
+[2018.03.10-14.57.15:050][  0]LogConfig: Warning: Failed to saved backup for config[GameplayTagsList]
+[2018.03.10-14.57.21:720][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Intermediate/AssetRegistryCache/2657c409.bin
+[2018.03.10-14.57.21:767][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Intermediate/AssetRegistryCache/866581fd.bin.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Intermediate/AssetRegistryCache/866581fd.bin', retrying in .5s...
+[2018.03.10-14.57.22:267][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Intermediate/AssetRegistryCache/866581fd.bin.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Intermediate/AssetRegistryCache/866581fd.bin', retrying in .5s...
+[2018.03.10-14.57.22:768][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Intermediate/AssetRegistryCache/866581fd.bin.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Intermediate/AssetRegistryCache/866581fd.bin', retrying in .5s...
+[2018.03.10-14.57.23:268][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Intermediate/AssetRegistryCache/866581fd.bin.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Intermediate/AssetRegistryCache/866581fd.bin', retrying in .5s...
+[2018.03.10-14.57.23:768][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Intermediate/AssetRegistryCache/866581fd.bin.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Intermediate/AssetRegistryCache/866581fd.bin', retrying in .5s...
+[2018.03.10-14.57.24:269][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Intermediate/AssetRegistryCache/866581fd.bin.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Intermediate/AssetRegistryCache/866581fd.bin', retrying in .5s...
+[2018.03.10-14.57.24:770][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Intermediate/AssetRegistryCache/866581fd.bin.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Intermediate/AssetRegistryCache/866581fd.bin', retrying in .5s...
+[2018.03.10-14.57.25:270][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Intermediate/AssetRegistryCache/866581fd.bin.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Intermediate/AssetRegistryCache/866581fd.bin', retrying in .5s...
+[2018.03.10-14.57.25:771][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Intermediate/AssetRegistryCache/866581fd.bin.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Intermediate/AssetRegistryCache/866581fd.bin', retrying in .5s...
+[2018.03.10-14.57.26:271][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Intermediate/AssetRegistryCache/866581fd.bin.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Intermediate/AssetRegistryCache/866581fd.bin', retrying in .5s...
+[2018.03.10-14.57.26:772][  0]LogFileManager: Error: Error moving file '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Intermediate/AssetRegistryCache/866581fd.bin.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Intermediate/AssetRegistryCache/866581fd.bin'.
+[2018.03.10-14.57.26:865][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 5.222085 seconds
+[2018.03.10-14.57.26:870][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.03.10-14.57.26:870][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.03.10-14.57.26:870][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.10-14.57.26:930][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.10-14.57.51:718][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.10-14.57.51:800][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.10-14.57.53:368][  0]LogConfig: Warning: Failed to saved backup for config[InternationalizationExport]
+[2018.03.10-14.57.54:142][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.10-14.57.55:769][  0]SourceControl: Source control is disabled
+[2018.03.10-14.57.55:780][  0]SourceControl: Source control is disabled
+[2018.03.10-14.57.55:950][  0]SourceControl: Source control is disabled
+[2018.03.10-14.57.56:096][  0]SourceControl: Source control is disabled
+[2018.03.10-14.57.58:284][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.10-14.57.58:776][  0]LogOcInput: OculusInput pre-init called
+[2018.03.10-14.57.59:953][  0]LogEngine: Initializing Engine...
+[2018.03.10-14.58.00:043][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.10-14.58.01:585][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.10-14.58.01:586][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.10-14.58.02:255][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.10-14.58.02:445][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.10-14.58.02:468][  0]LogInit: FAudioDevice initialized.
+[2018.03.10-14.58.02:529][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/veeki/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.10-14.58.02:544][  0]LogInit: Texture streaming: Enabled
+[2018.03.10-14.58.03:123][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.10-14.58.04:261][  0]LogInit: Transaction tracking system initialized
+[2018.03.10-14.58.05:489][  0]BlueprintLog: New page: Editor Load
+[2018.03.10-14.58.08:710][  0]LocalizationService: Localization service is disabled
+[2018.03.10-14.58.10:650][  0]LogConsoleResponse: Display: 
+[2018.03.10-14.58.15:720][  0]LogFileCache: Scanning file cache for directory 'C:/Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/' took 0.07s
+[2018.03.10-14.58.15:720][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.10-14.58.15:721][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.10-14.58.15:734][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.10-14.58.19:243][  0]SourceControl: Source control is disabled
+[2018.03.10-14.58.19:273][  0]Cmd: MAP LOAD FILE="../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.10-14.58.19:274][  0]LightingResults: New page: Lighting Build
+[2018.03.10-14.58.19:596][  0]MapCheck: New page: Map Check
+[2018.03.10-14.58.19:596][  0]LightingResults: New page: Lighting Build
+[2018.03.10-14.58.23:074][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2018.03.10-14.58.23:074][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.03.10-14.58.23:074][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2018.03.10-14.58.23:074][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2018.03.10-14.58.23:085][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] [0145.16] Compile of Ue4ASP_Character successful, but with 4 Warning(s) [in 61 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2018.03.10-14.58.26:558][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.10-14.58.27:793][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.10-14.58.28:036][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.10-14.58.28:147][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 111.076ms to complete.
+[2018.03.10-14.58.28:147][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 8.889
+[2018.03.10-14.58.30:598][  0]LogCollectionManager: Loaded 0 collections in 0.002837 seconds
+[2018.03.10-14.58.30:812][  0]LogFileCache: Scanning file cache for directory 'C:/Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Collections/' took 0.01s
+[2018.03.10-14.58.30:812][  0]LogFileCache: Scanning file cache for directory 'C:/Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/Developers/veeking/Collections/' took 0.01s
+[2018.03.10-14.58.30:812][  0]LogFileCache: Scanning file cache for directory 'C:/Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/Collections/' took 0.01s
+[2018.03.10-14.58.30:812][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.10-14.58.30:826][  0]LogContentBrowser: Native class hierarchy populated in 0.0127 seconds. Added 2363 classes and 519 folders.
+[2018.03.10-14.58.31:145][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.03.10-14.58.33:023][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.10-14.58.33:171][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.10-14.58.33:978][  0]LogSlate: Took 0.016137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.10-14.58.34:016][  0]LogSlate: Took 0.022879 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.10-14.58.34:148][  0]LogSlate: Took 0.011497 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.10-14.58.34:931][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2018.03.10-14.58.36:094][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.10-14.58.36:094][  0]LogLoad: (Engine Initialization) Total time: 158.17 seconds
+[2018.03.10-14.58.36:094][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.10-14.58.36:107][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.03.10-14.58.36:634][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.10-14.58.37:108][  0]LogSlate: Took 0.069980 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.10-14.58.37:614][  2]LogAssetRegistry: Asset discovery search completed in 83.6141 seconds
+[2018.03.10-14.58.37:655][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.10-14.58.37:655][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.009712 seconds (updated 0 objects)
+[2018.03.10-15.01.08:242][523]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.10-15.01.08:454][523]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.10-15.01.08:989][523]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.10-15.01.09:156][523]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.01.09:476][523]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.03.10-15.01.11:127][523]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.03.10-15.01.11:169][523]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.10-15.01.29:501][102]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-15.01.29:549][102]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.01.29:549][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.10-15.01.29:550][102]PIE: New page: PIE session: TopDownExampleMap (Mar 11, 2018, 1:01:29 PM)
+[2018.03.10-15.01.29:550][102]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.03.10-15.01.29:615][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065124s)
+[2018.03.10-15.01.29:616][102]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.10-15.01.29:617][102]LogPlayLevel: PIE: World Init took: (0.001452s)
+[2018.03.10-15.01.29:617][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.067430s)
+[2018.03.10-15.01.29:646][102]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.10-15.01.29:651][102]LogInit: FAudioDevice initialized.
+[2018.03.10-15.01.29:693][102]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.03.10-15.01.29:696][102]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.03.11-02.01.29
+[2018.03.10-15.01.29:697][102]LogWorld: Bringing up level for play took: 0.003444
+[2018.03.10-15.01.29:746][102]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.03.10-15.01.29:747][102]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.912
+[2018.03.10-15.01.29:748][102]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.01.40:214][330]LogRenderer: Reallocating scene render targets to support 964x444 Format 10 NumSamples 1 (Frame:1216).
+[2018.03.10-15.01.40:254][331]LogRenderer: Reallocating scene render targets to support 964x460 Format 10 NumSamples 1 (Frame:1217).
+[2018.03.10-15.01.40:294][332]LogRenderer: Reallocating scene render targets to support 964x468 Format 10 NumSamples 1 (Frame:1218).
+[2018.03.10-15.01.40:333][333]LogRenderer: Reallocating scene render targets to support 964x476 Format 10 NumSamples 1 (Frame:1219).
+[2018.03.10-15.01.40:373][334]LogRenderer: Reallocating scene render targets to support 964x488 Format 10 NumSamples 1 (Frame:1220).
+[2018.03.10-15.01.40:414][335]LogRenderer: Reallocating scene render targets to support 964x504 Format 10 NumSamples 1 (Frame:1221).
+[2018.03.10-15.01.40:472][336]LogRenderer: Reallocating scene render targets to support 964x520 Format 10 NumSamples 1 (Frame:1222).
+[2018.03.10-15.01.57:694][395]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.01.57:753][395]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.02.56:627][ 22]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-15.02.56:646][ 22]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.02.56:647][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.10-15.02.56:647][ 22]PIE: New page: PIE session: TopDownExampleMap (Mar 11, 2018, 1:02:56 PM)
+[2018.03.10-15.02.56:647][ 22]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.03.10-15.02.56:666][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019000s)
+[2018.03.10-15.02.56:667][ 22]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.10-15.02.56:668][ 22]LogPlayLevel: PIE: World Init took: (0.001555s)
+[2018.03.10-15.02.56:668][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.021011s)
+[2018.03.10-15.02.56:689][ 22]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.10-15.02.56:694][ 22]LogInit: FAudioDevice initialized.
+[2018.03.10-15.02.56:744][ 22]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.03.10-15.02.56:747][ 22]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.03.11-02.02.56
+[2018.03.10-15.02.56:747][ 22]LogWorld: Bringing up level for play took: 0.003109
+[2018.03.10-15.02.56:749][ 22]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.086
+[2018.03.10-15.02.56:749][ 22]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.03.14:363][132]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.03.14:400][132]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.03.30:754][488]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.03.31:437][488]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.03.10-15.03.32:439][488]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2018.03.10-15.03.32:758][488]LogSlate: Took 0.019820 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.10-15.03.33:226][489]LogSlate: Took 0.020161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.10-15.04.56:630][971]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2018.03.10-15.04.57:159][972]LogEditorViewport: Clicking on Actor (context menu): TopDownCharacter_C (TopDownCharacter)
+[2018.03.10-15.05.09:537][128]BlueprintLog: New page: Compile TopDownCharacter
+[2018.03.10-15.05.11:531][241]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-15.05.11:557][241]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.05.11:557][241]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.10-15.05.11:557][241]PIE: New page: PIE session: TopDownExampleMap (Mar 11, 2018, 1:05:11 PM)
+[2018.03.10-15.05.11:558][241]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.03.10-15.05.11:575][241]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017738s)
+[2018.03.10-15.05.11:577][241]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.10-15.05.11:577][241]LogPlayLevel: PIE: World Init took: (0.001688s)
+[2018.03.10-15.05.11:577][241]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.019854s)
+[2018.03.10-15.05.11:635][241]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.10-15.05.11:639][241]LogInit: FAudioDevice initialized.
+[2018.03.10-15.05.11:671][241]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.03.10-15.05.11:674][241]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.03.11-02.05.11
+[2018.03.10-15.05.11:674][241]LogWorld: Bringing up level for play took: 0.003003
+[2018.03.10-15.05.11:676][241]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.841
+[2018.03.10-15.05.11:676][241]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.05.16:284][790]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.05.16:319][790]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.05.21:749][415]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-15.05.21:770][415]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.05.21:770][415]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.10-15.05.21:801][415]LogPlayLevel: [PlayLevel] Compiling TopDownCharacter before play...
+[2018.03.10-15.05.22:192][415]LogPlayLevel: PlayLevel: Blueprint regeneration took 421 ms (1 blueprints)
+[2018.03.10-15.05.22:192][415]PIE: New page: PIE session: TopDownExampleMap (Mar 11, 2018, 1:05:22 PM)
+[2018.03.10-15.05.22:192][415]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.03.10-15.05.22:208][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015802s)
+[2018.03.10-15.05.22:209][415]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.10-15.05.22:209][415]LogPlayLevel: PIE: World Init took: (0.001054s)
+[2018.03.10-15.05.22:209][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017251s)
+[2018.03.10-15.05.22:235][415]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.10-15.05.22:239][415]LogInit: FAudioDevice initialized.
+[2018.03.10-15.05.22:273][415]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.03.10-15.05.22:276][415]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.03.11-02.05.22
+[2018.03.10-15.05.22:276][415]LogWorld: Bringing up level for play took: 0.003188
+[2018.03.10-15.05.22:278][415]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.443
+[2018.03.10-15.05.22:278][415]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.05.29:964][331]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.05.29:997][331]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.05.37:303][169]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-15.05.37:331][169]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.05.37:331][169]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.10-15.05.37:364][169]LogPlayLevel: [PlayLevel] Compiling TopDownCharacter before play...
+[2018.03.10-15.05.37:829][169]LogPlayLevel: PlayLevel: Blueprint regeneration took 498 ms (1 blueprints)
+[2018.03.10-15.05.37:830][169]PIE: New page: PIE session: TopDownExampleMap (Mar 11, 2018, 1:05:37 PM)
+[2018.03.10-15.05.37:830][169]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.03.10-15.05.37:845][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015211s)
+[2018.03.10-15.05.37:846][169]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.10-15.05.37:847][169]LogPlayLevel: PIE: World Init took: (0.001325s)
+[2018.03.10-15.05.37:847][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016922s)
+[2018.03.10-15.05.37:876][169]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.10-15.05.37:881][169]LogInit: FAudioDevice initialized.
+[2018.03.10-15.05.37:916][169]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.03.10-15.05.37:919][169]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.03.11-02.05.37
+[2018.03.10-15.05.37:919][169]LogWorld: Bringing up level for play took: 0.003191
+[2018.03.10-15.05.37:921][169]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.086
+[2018.03.10-15.05.37:921][169]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.06.06:289][563]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.06.06:321][563]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.06.14:274][485]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-15.06.14:303][485]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.06.14:303][485]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.10-15.06.14:337][485]LogPlayLevel: [PlayLevel] Compiling TopDownCharacter before play...
+[2018.03.10-15.06.14:889][485]LogPlayLevel: PlayLevel: Blueprint regeneration took 585 ms (1 blueprints)
+[2018.03.10-15.06.14:889][485]PIE: New page: PIE session: TopDownExampleMap (Mar 11, 2018, 1:06:14 PM)
+[2018.03.10-15.06.14:889][485]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.03.10-15.06.14:904][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015374s)
+[2018.03.10-15.06.14:905][485]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.10-15.06.14:906][485]LogPlayLevel: PIE: World Init took: (0.001281s)
+[2018.03.10-15.06.14:906][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017070s)
+[2018.03.10-15.06.14:933][485]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.10-15.06.14:938][485]LogInit: FAudioDevice initialized.
+[2018.03.10-15.06.14:972][485]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.03.10-15.06.14:975][485]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.03.11-02.06.14
+[2018.03.10-15.06.14:976][485]LogWorld: Bringing up level for play took: 0.003089
+[2018.03.10-15.06.14:977][485]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.142
+[2018.03.10-15.06.14:977][485]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.06.28:081][ 53]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.06.28:116][ 53]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.06.52:526][884]BlueprintLog: New page: Compile TopDownCharacter
+[2018.03.10-15.06.54:556][ 47]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-15.06.54:586][ 47]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.06.54:586][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.10-15.06.54:586][ 47]PIE: New page: PIE session: TopDownExampleMap (Mar 11, 2018, 1:06:54 PM)
+[2018.03.10-15.06.54:586][ 47]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.03.10-15.06.54:605][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018678s)
+[2018.03.10-15.06.54:607][ 47]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.10-15.06.54:607][ 47]LogPlayLevel: PIE: World Init took: (0.002051s)
+[2018.03.10-15.06.54:608][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.021269s)
+[2018.03.10-15.06.54:641][ 47]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.10-15.06.54:645][ 47]LogInit: FAudioDevice initialized.
+[2018.03.10-15.06.54:680][ 47]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.03.10-15.06.54:683][ 47]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.03.11-02.06.54
+[2018.03.10-15.06.54:683][ 47]LogWorld: Bringing up level for play took: 0.003046
+[2018.03.10-15.06.54:685][ 47]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.15
+[2018.03.10-15.06.54:685][ 47]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.06.58:425][492]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.06.58:461][492]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.07.09:029][741]BlueprintLog: New page: Compile TopDownCharacter
+[2018.03.10-15.07.09:859][790]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-15.07.09:888][790]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.07.09:888][790]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.10-15.07.09:888][790]PIE: New page: PIE session: TopDownExampleMap (Mar 11, 2018, 1:07:09 PM)
+[2018.03.10-15.07.09:888][790]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.03.10-15.07.09:906][790]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018067s)
+[2018.03.10-15.07.09:907][790]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.10-15.07.09:908][790]LogPlayLevel: PIE: World Init took: (0.001356s)
+[2018.03.10-15.07.09:908][790]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.019888s)
+[2018.03.10-15.07.09:936][790]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.10-15.07.09:941][790]LogInit: FAudioDevice initialized.
+[2018.03.10-15.07.10:015][790]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.03.10-15.07.10:019][790]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.03.11-02.07.10
+[2018.03.10-15.07.10:020][790]LogWorld: Bringing up level for play took: 0.003386
+[2018.03.10-15.07.10:022][790]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.813
+[2018.03.10-15.07.10:022][790]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.07.10:108][790]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
+[2018.03.10-15.07.13:216][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.07.13:274][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.09.22:234][178]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-15.09.22:254][178]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.09.22:254][178]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.10-15.09.22:290][178]LogPlayLevel: [PlayLevel] Compiling TopDownCharacter before play...
+[2018.03.10-15.09.22:670][178]LogPlayLevel: PlayLevel: Blueprint regeneration took 415 ms (1 blueprints)
+[2018.03.10-15.09.22:670][178]PIE: New page: PIE session: TopDownExampleMap (Mar 11, 2018, 1:09:22 PM)
+[2018.03.10-15.09.22:670][178]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.03.10-15.09.22:686][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015987s)
+[2018.03.10-15.09.22:687][178]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.10-15.09.22:688][178]LogPlayLevel: PIE: World Init took: (0.001291s)
+[2018.03.10-15.09.22:688][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017615s)
+[2018.03.10-15.09.22:714][178]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.10-15.09.22:719][178]LogInit: FAudioDevice initialized.
+[2018.03.10-15.09.22:750][178]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.03.10-15.09.22:753][178]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.03.11-02.09.22
+[2018.03.10-15.09.22:753][178]LogWorld: Bringing up level for play took: 0.003133
+[2018.03.10-15.09.22:755][178]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.08
+[2018.03.10-15.09.22:755][178]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.09.46:049][966]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.09.46:083][966]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.10.40:636][264]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.10-15.10.49:812][290]LogSavePackage: Save=264.94ms
+[2018.03.10-15.10.49:812][290]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/TopDownExampleMap_Auto1885EE68F4D11684146315DB7BAA35FD3.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2018.03.10-15.10.49:829][290]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap
+[2018.03.10-15.10.49:833][290]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.527
+[2018.03.10-15.10.49:833][290]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.527
+[2018.03.10-15.10.49:837][290]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_slash] ([1] browsable assets)...
+[2018.03.10-15.10.49:873][290]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_slash.sword_and_shield_slash]
+[2018.03.10-15.10.49:873][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_slash]
+[2018.03.10-15.10.49:946][290]LogSavePackage: Save=58.57ms
+[2018.03.10-15.10.49:946][290]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/sword_and_shield_slash_Auto10FCB3E28444F57EDD757CE8B32D8D1D9.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_slash_Auto1.uasset'
+[2018.03.10-15.10.49:949][290]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_slash_Auto1.uasset
+[2018.03.10-15.10.49:951][290]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Character/Knight_Character/Animations/Sword_And_Shield_Run] ([1] browsable assets)...
+[2018.03.10-15.10.49:965][290]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/Sword_And_Shield_Run.sword_and_shield_run]
+[2018.03.10-15.10.49:965][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Character/Knight_Character/Animations/Sword_And_Shield_Run]
+[2018.03.10-15.10.50:013][290]LogSavePackage: Save=15.91ms
+[2018.03.10-15.10.50:013][290]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Sword_And_Shield_Run_Auto1A87224D54C13B014ECBAF6B7D3D97C7B.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Character/Knight_Character/Animations/Sword_And_Shield_Run_Auto1.uasset'
+[2018.03.10-15.10.50:044][290]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Character/Knight_Character/Animations/Sword_And_Shield_Run_Auto1.uasset
+[2018.03.10-15.10.50:047][290]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownCharacter] ([1] browsable assets)...
+[2018.03.10-15.10.50:061][290]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter]
+[2018.03.10-15.10.50:061][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownCharacter]
+[2018.03.10-15.10.50:147][290]LogSavePackage: Save=72.87ms
+[2018.03.10-15.10.50:147][290]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/TopDownCharacter_Auto172460B284B4F854BD11885A5E946BA41.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownCharacter_Auto1.uasset'
+[2018.03.10-15.10.50:151][290]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownCharacter_Auto1.uasset
+[2018.03.10-15.10.50:151][290]LogFileHelpers: Auto-saving content packages took 0.317
+[2018.03.10-15.11.55:505][487]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-15.11.55:536][487]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.11.55:536][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.10-15.11.55:536][487]PIE: New page: PIE session: TopDownExampleMap (Mar 11, 2018, 1:11:55 PM)
+[2018.03.10-15.11.55:536][487]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.03.10-15.11.55:555][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018114s)
+[2018.03.10-15.11.55:556][487]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.10-15.11.55:556][487]LogPlayLevel: PIE: World Init took: (0.001659s)
+[2018.03.10-15.11.55:557][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.020228s)
+[2018.03.10-15.11.55:591][487]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.10-15.11.55:596][487]LogInit: FAudioDevice initialized.
+[2018.03.10-15.11.55:630][487]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.03.10-15.11.55:634][487]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.03.11-02.11.55
+[2018.03.10-15.11.55:635][487]LogWorld: Bringing up level for play took: 0.004266
+[2018.03.10-15.11.55:636][487]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.801
+[2018.03.10-15.11.55:636][487]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.12.00:715][ 91]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.12.00:748][ 91]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.13.04:616][495]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.03.10-15.13.05:680][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.03.10-15.18.05:940][288]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\veeki\Desktop\colosseum.obj)
+[2018.03.10-15.18.06:074][288]LogFbx: Loading FBX Scene from C:\Users\veeki\Desktop\colosseum.obj
+[2018.03.10-15.18.07:081][288]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.10-15.18.09:213][288]LogFbx: Loading FBX Scene from C:\Users\veeki\Desktop\colosseum.obj
+[2018.03.10-15.18.10:202][288]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.10-15.18.10:207][288]LogLinker: Can't find file '/Game/pCube59Mat'
+[2018.03.10-15.18.10:208][288]LogLinker: Can't find file '/Game/pCube59Mat'
+[2018.03.10-15.18.10:266][288]LogMaterial: Missing cached shader map for material pCube59Mat, compiling. 
+[2018.03.10-15.18.10:404][288]LogFbx: Warning: Triangulating static mesh pCube59
+[2018.03.10-15.18.13:070][288]LogStaticMesh: Building static mesh colosseum...
+[2018.03.10-15.18.22:250][288]LogStaticMesh: Built static mesh [9.18s] /Game/colosseum.colosseum
+[2018.03.10-15.18.22:575][288]LogStaticMesh: Warning: colosseum has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.03.10-15.18.22:575][288]LogStaticMesh: Warning: colosseum has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.03.10-15.18.22:980][288]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2018.03.10-15.18.22:980][288]FBXImport: Warning: colosseum has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.03.10-15.18.22:980][288]FBXImport: Warning: colosseum has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.03.10-15.18.25:336][408]LogActorFactory: Actor Factory created colosseum
+[2018.03.10-15.18.31:046][979]LogActorFactory: Actor Factory created colosseum
+[2018.03.10-15.18.32:142][104]LogActorFactory: Actor Factory created colosseum
+[2018.03.10-15.18.38:535][817]Cmd: TRANSACTION UNDO
+[2018.03.10-15.18.38:535][817]LogEditorTransaction: Undo Move Actors
+[2018.03.10-15.18.38:771][817]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.18.38:788][817]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.18.39:163][841]Cmd: TRANSACTION UNDO
+[2018.03.10-15.18.39:164][841]LogEditorTransaction: Undo Create Actors
+[2018.03.10-15.18.39:402][841]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.18.39:405][841]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.20.56:573][478]LogSavePackage: Save=193.44ms
+[2018.03.10-15.20.56:573][478]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/TopDownExampleMap_Auto2FF7034E44DC26BD383240C876A311356.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap'
+[2018.03.10-15.20.56:577][478]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap
+[2018.03.10-15.20.56:583][478]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.313
+[2018.03.10-15.20.56:583][478]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.313
+[2018.03.10-15.25.59:278][202]LogActorFactory: Actor Factory created Sphere
+[2018.03.10-15.26.02:625][565]LogActorFactory: Actor Factory created Sphere
+[2018.03.10-15.26.17:151][146]Cmd: TRANSACTION UNDO
+[2018.03.10-15.26.17:151][146]LogEditorTransaction: Undo Scale Actors
+[2018.03.10-15.26.17:355][146]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.26.17:358][146]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.28.12:568][186]Cmd: TRANSACTION UNDO
+[2018.03.10-15.28.12:568][186]LogEditorTransaction: Undo Delete selection
+[2018.03.10-15.28.12:571][186]LogActorComponent: ~FComponentReregisterContext: (/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.Cube17_24.StaticMeshComponent0) Component already registered.
+[2018.03.10-15.28.12:571][186]LogActorComponent: ~FComponentReregisterContext: (/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.Cube21.StaticMeshComponent0) Component already registered.
+[2018.03.10-15.28.12:572][186]LogActorComponent: ~FComponentReregisterContext: (/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.Cube29.StaticMeshComponent0) Component already registered.
+[2018.03.10-15.28.12:573][186]LogActorComponent: ~FComponentReregisterContext: (/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.Cube24.StaticMeshComponent0) Component already registered.
+[2018.03.10-15.28.12:776][186]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.28.12:779][186]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.28.18:618][864]Cmd: TRANSACTION UNDO
+[2018.03.10-15.28.18:618][864]LogEditorTransaction: Undo Delete selection
+[2018.03.10-15.28.18:622][864]LogActorComponent: ~FComponentReregisterContext: (/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.Cube26.StaticMeshComponent0) Component already registered.
+[2018.03.10-15.28.18:622][864]LogActorComponent: ~FComponentReregisterContext: (/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.Cube17_24.StaticMeshComponent0) Component already registered.
+[2018.03.10-15.28.18:623][864]LogActorComponent: ~FComponentReregisterContext: (/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.Wall1.StaticMeshComponent0) Component already registered.
+[2018.03.10-15.28.18:624][864]LogActorComponent: ~FComponentReregisterContext: (/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.Wall5.StaticMeshComponent0) Component already registered.
+[2018.03.10-15.28.18:823][864]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.28.18:826][864]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.28.40:778][436]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.10-15.28.40:779][436]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.10-15.28.40:779][436]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.10-15.28.40:780][436]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.10-15.28.40:802][436]LogEditorActor: Deleted 4 Actors (0.053 secs)
+[2018.03.10-15.29.02:767][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.10-15.29.02:768][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.10-15.29.02:768][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.10-15.29.02:769][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.10-15.29.02:769][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.10-15.29.02:769][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.10-15.29.02:770][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.10-15.29.02:770][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.10-15.29.02:771][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.10-15.29.02:771][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.10-15.29.02:771][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.10-15.29.02:772][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.10-15.29.02:772][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.10-15.29.02:772][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.10-15.29.02:773][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.10-15.29.02:773][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.10-15.29.02:774][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.10-15.29.02:774][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.10-15.29.02:774][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.10-15.29.02:793][  3]LogEditorActor: Deleted 19 Actors (0.031 secs)
+[2018.03.10-15.29.12:193][ 96]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2018.03.10-15.29.12:212][ 96]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.03.10-15.29.13:670][271]Cmd: TRANSACTION UNDO
+[2018.03.10-15.29.13:670][271]LogEditorTransaction: Undo Delete selection
+[2018.03.10-15.29.13:880][271]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.29.13:883][271]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.29.28:074][943]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.03.10-15.29.29:289][ 85]Cmd: DELETE
+[2018.03.10-15.29.29:289][ 85]Cmd: ACTOR DELETE
+[2018.03.10-15.29.29:522][ 85]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.10-15.29.29:542][ 85]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2018.03.10-15.29.33:176][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2018.03.10-15.29.45:272][924]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-15.29.45:292][924]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.29.45:292][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.10-15.29.45:292][924]PIE: New page: PIE session: TopDownExampleMap (Mar 11, 2018, 1:29:45 PM)
+[2018.03.10-15.29.45:292][924]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.03.10-15.29.45:343][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050355s)
+[2018.03.10-15.29.45:344][924]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.10-15.29.45:344][924]LogPlayLevel: PIE: World Init took: (0.001650s)
+[2018.03.10-15.29.45:345][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.052392s)
+[2018.03.10-15.29.45:377][924]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.10-15.29.45:384][924]LogInit: FAudioDevice initialized.
+[2018.03.10-15.29.45:419][924]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.03.10-15.29.45:422][924]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.03.11-02.29.45
+[2018.03.10-15.29.45:423][924]LogWorld: Bringing up level for play took: 0.002936
+[2018.03.10-15.29.45:424][924]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.589
+[2018.03.10-15.29.45:425][924]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.29.46:675][ 66]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.29.46:713][ 66]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.29.59:174][540]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Main Ground Arena)
+[2018.03.10-15.29.59:255][543]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.03.10-15.29.59:525][573]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.03.10-15.29.59:664][588]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Main Ground Arena)
+[2018.03.10-15.30.00:038][630]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Main Ground Arena)
+[2018.03.10-15.30.02:860][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Main Ground Arena)
+[2018.03.10-15.30.09:477][632]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Main Ground Arena)
+[2018.03.10-15.30.11:818][841]LogRenderer: Reallocating scene render targets to support 1144x708 Format 10 NumSamples 1 (Frame:1).
+[2018.03.10-15.30.48:668][297]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.03.10-15.30.54:023][805]LogEditorActor: Deleted Actor: Brush
+[2018.03.10-15.30.54:065][805]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2018.03.10-15.30.55:592][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Main Ground Arena)
+[2018.03.10-15.31.22:397][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Main Ground Arena)
+[2018.03.10-15.31.23:800][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Main Ground Arena)
+[2018.03.10-15.31.23:866][617]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.03.10-15.31.24:443][669]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2018.03.10-15.31.26:719][832]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.03.10-15.32.13:191][571]LogSavePackage: Save=167.94ms
+[2018.03.10-15.32.13:191][571]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/TopDownExampleMap_Auto32CB74CA44B3DB08576A2509582100650.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto3.umap'
+[2018.03.10-15.32.13:199][571]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto3.umap
+[2018.03.10-15.32.13:207][571]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.237
+[2018.03.10-15.32.13:207][571]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.237
+[2018.03.10-15.32.16:532][719]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.03.10-15.32.23:604][378]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-15.32.23:631][378]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.32.23:631][378]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.10-15.32.23:631][378]PIE: New page: PIE session: TopDownExampleMap (Mar 11, 2018, 1:32:23 PM)
+[2018.03.10-15.32.23:631][378]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.03.10-15.32.23:650][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018950s)
+[2018.03.10-15.32.23:651][378]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.10-15.32.23:651][378]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2018.03.10-15.32.23:651][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.020148s)
+[2018.03.10-15.32.23:682][378]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.10-15.32.23:687][378]LogInit: FAudioDevice initialized.
+[2018.03.10-15.32.23:718][378]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.03.10-15.32.23:722][378]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.03.11-02.32.23
+[2018.03.10-15.32.23:722][378]LogWorld: Bringing up level for play took: 0.003442
+[2018.03.10-15.32.23:745][378]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.91
+[2018.03.10-15.32.23:745][378]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.32.26:463][695]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.32.26:502][695]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.32.32:731][313]Cmd: DELETE
+[2018.03.10-15.32.32:731][313]Cmd: ACTOR DELETE
+[2018.03.10-15.32.32:734][313]LogEditorActor: Deleted Actor: Brush
+[2018.03.10-15.32.32:755][313]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2018.03.10-15.32.33:312][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Main Ground Arena)
+[2018.03.10-15.32.33:893][429]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Main Ground Arena)
+[2018.03.10-15.32.34:591][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Main Ground Arena)
+[2018.03.10-15.32.35:105][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Main Ground Arena)
+[2018.03.10-15.32.35:202][543]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.03.10-15.32.35:950][620]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume)
+[2018.03.10-15.32.36:161][638]LogEditorViewport: Clicking on Actor (double click): TriggerVolume (TriggerVolume)
+[2018.03.10-15.32.39:752][ 19]Cmd: TRANSACTION UNDO
+[2018.03.10-15.32.39:752][ 19]LogEditorTransaction: Undo Move Actors
+[2018.03.10-15.32.40:079][ 19]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.32.40:081][ 19]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.32.52:535][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Main Ground Arena)
+[2018.03.10-15.32.53:152][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Main Ground Arena)
+[2018.03.10-15.33.00:168][ 49]LogMaterial: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2018.03.10-15.33.00:251][ 49]LogMaterial: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2018.03.10-15.33.00:416][ 49]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.03.10-15.33.00:444][ 49]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.03.10-15.33.00:540][ 49]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.03.10-15.33.00:560][ 49]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.03.10-15.33.00:645][ 49]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.03.10-15.33.00:665][ 49]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.03.10-15.33.00:686][ 49]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.03.10-15.33.00:798][ 49]LogMaterial: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2018.03.10-15.33.00:819][ 49]LogMaterial: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2018.03.10-15.33.00:960][ 49]LogMaterial: Missing cached shader map for material MirrorPlaneMaterial, compiling. 
+[2018.03.10-15.33.01:076][ 49]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.03.10-15.33.01:095][ 49]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.03.10-15.33.01:117][ 49]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.03.10-15.33.01:185][ 49]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.03.10-15.33.01:284][ 49]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.03.10-15.33.01:307][ 49]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.03.10-15.33.01:369][ 49]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.03.10-15.33.01:392][ 49]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.03.10-15.33.01:477][ 49]LogMaterial: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2018.03.10-15.33.01:503][ 49]LogMaterial: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2018.03.10-15.33.01:572][ 49]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.03.10-15.33.01:592][ 49]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.03.10-15.33.01:652][ 49]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.03.10-15.33.01:673][ 49]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.03.10-15.33.01:769][ 49]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.03.10-15.33.02:303][ 49]LogMaterial: Missing cached shader map for material FoliageBrushSphereMaterial, compiling. 
+[2018.03.10-15.33.02:973][ 73]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2018.03.10-15.33.04:238][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Main Ground Arena)
+[2018.03.10-15.33.04:703][182]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Main Ground Arena)
+[2018.03.10-15.33.32:375][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Main Ground Arena)
+[2018.03.10-15.33.32:970][305]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Main Ground Arena)
+[2018.03.10-15.33.43:096][735]LogStaticMesh: Building static mesh StaticMesh...
+[2018.03.10-15.33.43:108][735]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/StaticMesh.StaticMesh
+[2018.03.10-15.33.46:140][935]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-15.33.46:182][935]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.33.46:182][935]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.10-15.33.46:182][935]PIE: New page: PIE session: TopDownExampleMap (Mar 11, 2018, 1:33:46 PM)
+[2018.03.10-15.33.46:183][935]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.03.10-15.33.46:208][935]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025299s)
+[2018.03.10-15.33.46:209][935]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.10-15.33.46:210][935]LogPlayLevel: PIE: World Init took: (0.002316s)
+[2018.03.10-15.33.46:211][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.028095s)
+[2018.03.10-15.33.46:266][935]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.10-15.33.46:274][935]LogInit: FAudioDevice initialized.
+[2018.03.10-15.33.46:312][935]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.03.10-15.33.46:316][935]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.03.11-02.33.46
+[2018.03.10-15.33.46:317][935]LogWorld: Bringing up level for play took: 0.004273
+[2018.03.10-15.33.46:319][935]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.516
+[2018.03.10-15.33.46:319][935]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.33.48:638][114]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.33.48:683][114]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.34.15:676][328]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.15:676][328]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.03.10-15.34.16:182][328]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.16:186][328]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.17:017][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.17:017][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.17:514][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.17:517][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.17:533][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.17:533][382]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.03.10-15.34.17:851][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.17:854][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.17:871][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.17:871][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.18:191][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.18:195][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.18:212][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.18:212][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.18:548][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.18:550][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.18:567][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.18:567][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.18:892][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.18:895][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.18:912][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.18:912][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.19:276][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.19:279][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.19:296][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.19:297][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.19:700][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.19:703][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.19:721][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.19:721][382]LogEditorTransaction: Undo Clicking on Actors (double-click)
+[2018.03.10-15.34.20:050][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.20:052][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.20:071][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.20:071][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.20:453][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.20:456][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.20:480][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.20:480][382]LogEditorTransaction: Undo Clicking on Components
+[2018.03.10-15.34.20:865][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.20:868][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.20:887][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.20:887][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.21:240][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.21:242][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.21:261][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.21:261][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.21:602][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.21:605][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.21:624][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.21:624][382]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.03.10-15.34.22:020][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.22:024][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.22:049][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.22:049][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.22:483][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.22:487][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.22:511][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.22:511][382]LogEditorTransaction: Undo Delete Actors
+[2018.03.10-15.34.22:967][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.22:970][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.22:995][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.22:995][382]LogEditorTransaction: Undo Select Brush Surface
+[2018.03.10-15.34.23:439][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.23:444][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.23:470][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.23:470][382]LogEditorTransaction: Undo Brush Add
+[2018.03.10-15.34.23:860][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.23:864][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.23:882][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.23:882][382]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.03.10-15.34.26:265][382]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.383 s
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: === Handled ensure: ===
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: 
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: Ensure condition failed: bIsOwnerSelected [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\EditorSelectUtils.cpp] [Line: 319]
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: Owner(StaticMeshActor /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.MainGroundArena) of StaticMeshComponent /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.MainGroundArena.StaticMeshComponent0 is not selected
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: Stack: 
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x000000008DF82786 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x000000008DD2123A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x000000008DD3B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x000000007FD8DF36 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x000000007FD792E3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x000000007FD660EE UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x000000007FD4DCE9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x000000007FD4E61B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x000000007FDB28FB UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x000000007FDF5A0E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x000000007FD4D965 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x000000007FD47AB3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x00000000805DBAC9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x000000006F1F8BEE UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x000000006F1F8EDE UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x0000000081049636 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x00000000810883A0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x000000006F209AD5 UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x000000006F1E28DA UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x000000006F1F8AD1 UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x00000000810572D7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x00000000810898D3 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x000000008107BEE8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x000000009C51E28A UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x000000009C511A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x000000009C5203EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x000000009C50D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x00000000C92FB85D USER32.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x00000000C92FB1EF USER32.dll!UnknownFunction []
+[2018.03.10-15.34.26:320][382]LogOutputDevice: Error: [Callstack] 0x000000009C521516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.10-15.34.26:321][382]LogOutputDevice: Error: [Callstack] 0x0000000019B850C8 UE4Editor.exe!UnknownFunction []
+[2018.03.10-15.34.26:321][382]LogOutputDevice: Error: [Callstack] 0x0000000019B95430 UE4Editor.exe!UnknownFunction []
+[2018.03.10-15.34.26:321][382]LogOutputDevice: Error: [Callstack] 0x0000000019B954AA UE4Editor.exe!UnknownFunction []
+[2018.03.10-15.34.26:321][382]LogOutputDevice: Error: [Callstack] 0x0000000019BA2379 UE4Editor.exe!UnknownFunction []
+[2018.03.10-15.34.26:321][382]LogOutputDevice: Error: [Callstack] 0x0000000019BA3D57 UE4Editor.exe!UnknownFunction []
+[2018.03.10-15.34.26:321][382]LogOutputDevice: Error: [Callstack] 0x00000000C77C1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.03.10-15.34.26:321][382]LogOutputDevice: Error: [Callstack] 0x00000000C9C4EFC1 ntdll.dll!UnknownFunction []
+[2018.03.10-15.34.26:321][382]LogOutputDevice: Error: 
+[2018.03.10-15.34.26:324][382]LogStats:                SubmitErrorReport -  0.000 s
+[2018.03.10-15.34.35:666][382]LogStats:                    SendNewReport -  9.342 s
+[2018.03.10-15.34.35:666][382]LogStats:             FDebug::EnsureFailed - 11.784 s
+[2018.03.10-15.34.36:018][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.36:021][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.36:040][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.36:040][382]LogEditorTransaction: Undo Clicking on Components
+[2018.03.10-15.34.36:392][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.36:395][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.36:414][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.36:414][382]LogEditorTransaction: Undo Clicking on Component (context menu)
+[2018.03.10-15.34.36:765][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.36:768][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.36:787][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.36:787][382]LogEditorTransaction: Undo Clicking on Components
+[2018.03.10-15.34.37:185][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.37:188][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.37:209][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.37:209][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.37:594][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.37:598][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.37:620][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.37:620][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.38:024][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.38:027][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.38:052][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.38:052][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.38:464][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.38:467][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.38:487][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.38:487][382]LogEditorTransaction: Undo Delete selection
+[2018.03.10-15.34.38:956][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.38:959][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.38:982][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.38:982][382]LogEditorTransaction: Undo Brush Add
+[2018.03.10-15.34.39:370][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.39:373][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.39:391][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.39:391][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.39:765][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.39:769][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.39:790][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.39:790][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.40:345][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.40:349][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.40:376][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.40:376][382]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.03.10-15.34.40:768][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.40:772][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.40:797][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.40:797][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.41:222][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.41:225][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.41:244][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.41:244][382]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.03.10-15.34.41:688][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.41:691][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.41:724][382]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Main Ground Arena)
+[2018.03.10-15.34.41:741][382]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Main Ground Arena)
+[2018.03.10-15.34.41:798][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.41:798][382]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.03.10-15.34.42:323][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.42:329][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.42:359][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.42:359][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.43:248][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.43:253][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.43:281][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.43:281][382]LogEditorTransaction: Undo Clicking on Actors (double-click)
+[2018.03.10-15.34.43:722][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.43:725][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.43:749][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.43:749][382]LogEditorTransaction: Undo Clicking on Components
+[2018.03.10-15.34.44:105][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.44:108][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.44:129][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.44:129][382]LogEditorTransaction: Undo Clicking on Components
+[2018.03.10-15.34.44:463][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.44:466][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.44:484][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.44:484][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.44:825][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.44:828][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.44:846][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.44:846][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.45:192][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.45:195][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.45:213][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.45:213][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.45:532][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.45:535][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.45:553][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.45:553][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.45:989][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.45:992][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.46:014][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.46:014][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.46:452][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.46:455][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.46:477][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.46:477][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.46:945][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.46:950][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.46:976][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.46:976][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.47:364][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.47:368][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.47:394][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.47:394][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.47:836][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.47:841][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.47:892][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.47:892][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.48:275][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.48:278][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.48:297][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.48:297][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.48:758][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.48:761][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.48:785][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.48:785][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.49:211][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.49:214][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.49:237][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.49:237][382]LogEditorTransaction: Undo Rename Actor
+[2018.03.10-15.34.49:673][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.49:677][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.49:703][382]Cmd: TRANSACTION UNDO
+[2018.03.10-15.34.49:703][382]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.34.50:917][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.34.51:181][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.34.59:284][398]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.03.10-15.35.01:079][521]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.01:080][521]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.35.01:425][521]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.01:428][521]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.01:664][532]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.01:664][532]LogEditorTransaction: Undo Delete Actors
+[2018.03.10-15.35.02:282][532]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.02:285][532]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.02:303][532]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.02:303][532]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.35.02:697][532]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.02:719][532]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.02:845][534]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.02:845][534]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.35.03:217][534]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.03:220][534]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.03:756][565]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.03:756][565]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.35.04:167][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.04:170][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.04:192][565]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.04:192][565]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.35.04:544][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.04:547][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.04:568][565]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.04:568][565]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.35.04:921][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.04:925][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.04:953][565]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.04:953][565]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.35.05:610][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.05:615][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.05:644][565]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.05:644][565]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.35.06:159][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.06:162][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.06:181][565]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.06:181][565]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.35.06:858][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.06:861][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.06:881][565]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.06:881][565]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.35.07:317][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.07:320][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.07:341][565]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.07:341][565]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.35.07:888][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.07:891][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.07:911][565]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.07:911][565]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.35.08:342][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.08:347][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.08:374][565]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.08:374][565]LogEditorTransaction: Undo Delete selection
+[2018.03.10-15.35.08:970][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.08:973][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.08:993][565]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.08:993][565]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.35.09:355][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.09:359][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.09:385][565]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.09:385][565]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.35.09:773][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.09:803][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.10:067][565]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.10:145][565]LogEditorTransaction: Undo Set Actor Visibility
+[2018.03.10-15.35.10:514][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.10:517][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.10:540][565]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.10:540][565]LogEditorTransaction: Undo Delete selection
+[2018.03.10-15.35.10:918][565]LogActorComponent: ~FComponentReregisterContext: (/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.Cube17_24.StaticMeshComponent0) Component already registered.
+[2018.03.10-15.35.10:918][565]LogActorComponent: ~FComponentReregisterContext: (/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.Cube21.StaticMeshComponent0) Component already registered.
+[2018.03.10-15.35.10:990][565]LogActorComponent: ~FComponentReregisterContext: (/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.Cube29.StaticMeshComponent0) Component already registered.
+[2018.03.10-15.35.11:041][565]LogActorComponent: ~FComponentReregisterContext: (/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.Cube24.StaticMeshComponent0) Component already registered.
+[2018.03.10-15.35.11:680][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.11:685][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.11:719][565]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.11:719][565]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.35.12:256][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.12:260][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.12:287][565]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.12:287][565]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.35.12:807][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.12:811][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.12:843][565]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.12:843][565]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.35.13:380][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.13:385][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.13:417][565]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.13:417][565]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.35.14:467][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.14:470][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.14:490][565]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.14:490][565]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.35.14:890][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.14:895][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.14:922][565]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.14:922][565]LogEditorTransaction: Undo Delete selection
+[2018.03.10-15.35.15:552][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.15:555][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.15:584][565]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.15:584][565]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.35.16:134][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.16:137][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.20:855][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.03.10-15.35.22:651][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.22:651][572]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.35.23:076][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.23:081][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.23:109][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.23:109][572]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.35.23:682][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.23:685][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.23:707][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.23:707][572]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.35.24:062][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.24:065][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.24:088][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.24:088][572]LogEditorTransaction: Undo Delete selection
+[2018.03.10-15.35.24:818][572]LogActorComponent: ~FComponentReregisterContext: (/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.Cube26.StaticMeshComponent0) Component already registered.
+[2018.03.10-15.35.24:831][572]LogActorComponent: ~FComponentReregisterContext: (/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.Cube17_24.StaticMeshComponent0) Component already registered.
+[2018.03.10-15.35.24:832][572]LogActorComponent: ~FComponentReregisterContext: (/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.Wall1.StaticMeshComponent0) Component already registered.
+[2018.03.10-15.35.24:833][572]LogActorComponent: ~FComponentReregisterContext: (/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.Wall5.StaticMeshComponent0) Component already registered.
+[2018.03.10-15.35.25:199][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.25:203][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.25:225][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.25:225][572]LogEditorTransaction: Undo Set Actor Visibility
+[2018.03.10-15.35.26:384][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.26:387][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.26:410][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.26:410][572]LogEditorTransaction: Undo Set Actor Visibility
+[2018.03.10-15.35.26:907][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.26:912][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.26:956][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.26:957][572]LogEditorTransaction: Undo Set Actor Visibility
+[2018.03.10-15.35.27:535][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.27:540][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.27:625][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.27:625][572]LogEditorTransaction: Undo Set Actor Visibility
+[2018.03.10-15.35.28:243][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.28:247][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.28:270][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.28:271][572]LogEditorTransaction: Undo Set Actor Visibility
+[2018.03.10-15.35.28:804][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.28:807][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.28:832][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.28:832][572]LogEditorTransaction: Undo Set Actor Visibility
+[2018.03.10-15.35.29:441][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.29:445][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.29:470][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.29:470][572]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.35.30:130][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.30:134][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.30:162][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.30:237][572]LogEditorTransaction: Undo Set Scale
+[2018.03.10-15.35.31:638][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.31:643][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.31:683][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.31:683][572]LogEditorTransaction: Undo Set Scale
+[2018.03.10-15.35.32:997][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.33:001][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.33:039][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.33:039][572]LogEditorTransaction: Undo Set Scale
+[2018.03.10-15.35.33:850][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.33:853][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.33:880][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.33:880][572]LogEditorTransaction: Undo Set Scale
+[2018.03.10-15.35.34:635][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.34:639][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.34:780][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.34:780][572]LogEditorTransaction: Undo Set Scale
+[2018.03.10-15.35.36:601][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.36:607][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.36:648][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.36:648][572]LogEditorTransaction: Undo Set Scale
+[2018.03.10-15.35.38:936][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.38:940][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.38:966][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.38:966][572]LogEditorTransaction: Undo Set Scale
+[2018.03.10-15.35.39:843][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.39:849][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.39:881][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.39:881][572]LogEditorTransaction: Undo Set Scale
+[2018.03.10-15.35.40:512][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.40:517][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.40:543][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.40:544][572]LogEditorTransaction: Undo Set Scale
+[2018.03.10-15.35.41:048][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.41:076][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.41:116][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.41:165][572]LogEditorTransaction: Undo Move Actors
+[2018.03.10-15.35.42:162][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.42:166][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.42:192][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.42:192][572]LogEditorTransaction: Undo Set Location
+[2018.03.10-15.35.42:753][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.42:757][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.42:782][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.42:782][572]LogEditorTransaction: Undo Set Location
+[2018.03.10-15.35.43:432][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.43:436][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.43:460][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.43:460][572]LogEditorTransaction: Undo Set Location
+[2018.03.10-15.35.44:096][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.44:100][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.44:145][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.44:146][572]LogEditorTransaction: Undo Set Scale
+[2018.03.10-15.35.44:799][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.44:803][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.44:907][572]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube23)
+[2018.03.10-15.35.46:720][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.46:720][572]LogEditorTransaction: Undo Clicking on Actors
+[2018.03.10-15.35.47:438][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.47:442][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.47:468][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.47:468][572]LogEditorTransaction: Undo Set Scale
+[2018.03.10-15.35.48:037][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.48:068][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.48:096][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.48:096][572]LogEditorTransaction: Undo Set Scale
+[2018.03.10-15.35.48:504][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.48:508][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.48:563][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.48:563][572]LogEditorTransaction: Undo Set Scale
+[2018.03.10-15.35.49:154][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.49:159][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.49:218][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.49:218][572]LogEditorTransaction: Undo Set Scale
+[2018.03.10-15.35.49:870][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.49:875][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.49:903][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.49:903][572]LogEditorTransaction: Undo Set Scale
+[2018.03.10-15.35.50:273][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.50:279][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.50:331][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.50:361][572]LogEditorTransaction: Undo Scale Actors
+[2018.03.10-15.35.50:816][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.50:824][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.50:855][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.50:855][572]LogEditorTransaction: Undo Scale Actors
+[2018.03.10-15.35.51:351][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.51:355][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.51:397][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.51:398][572]LogEditorTransaction: Undo Scale Actors
+[2018.03.10-15.35.51:886][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.51:892][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.51:926][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.51:926][572]LogEditorTransaction: Undo Scale Actors
+[2018.03.10-15.35.52:430][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.52:434][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.52:472][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.52:472][572]LogEditorTransaction: Undo Scale Actors
+[2018.03.10-15.35.52:897][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.52:901][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.52:926][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.52:996][572]LogEditorTransaction: Undo Scale Actors
+[2018.03.10-15.35.53:541][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.53:545][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.53:571][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.53:572][572]LogEditorTransaction: Undo Scale Actors
+[2018.03.10-15.35.54:462][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.54:465][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.54:490][572]Cmd: TRANSACTION UNDO
+[2018.03.10-15.35.54:562][572]LogEditorTransaction: Undo Create Actors
+[2018.03.10-15.35.56:656][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.10-15.35.56:660][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.03.10-15.35.56:732][572]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.03.10-15.36.16:610][679]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-15.36.19:411][679]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.36.19:423][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.10-15.36.19:859][679]PIE: New page: PIE session: TopDownExampleMap (Mar 11, 2018, 1:36:19 PM)
+[2018.03.10-15.36.19:887][679]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.03.10-15.36.21:671][679]LogPlayLevel: PIE: StaticDuplicateObject took: (1.783738s)
+[2018.03.10-15.36.21:712][679]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.10-15.36.21:752][679]LogPlayLevel: PIE: World Init took: (0.080387s)
+[2018.03.10-15.36.21:752][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (1.864755s)
+[2018.03.10-15.36.23:701][679]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.10-15.36.23:740][679]LogInit: FAudioDevice initialized.
+[2018.03.10-15.36.23:859][679]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.03.10-15.36.24:063][679]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.03.11-02.36.24
+[2018.03.10-15.36.24:124][679]LogWorld: Bringing up level for play took: 0.248682
+[2018.03.10-15.36.24:302][679]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 7.446
+[2018.03.10-15.36.24:303][679]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.36.30:086][798]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.36.30:652][798]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.10-15.37.04:329][846]LogSavePackage: Save=18636.52ms
+[2018.03.10-15.37.04:329][846]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/TopDownExampleMapF1133F854D62F237B7D69AB6A302EB1B.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.03.10-15.37.04:828][846]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.03.10-15.37.05:113][846]LogFileHelpers: Saving map 'TopDownExampleMap' took 30.283
+[2018.03.10-15.37.06:273][846]LogSavePackage: Save=951.96ms
+[2018.03.10-15.37.06:273][846]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/sword_and_shield_slash8088AA0045F9B7B9C86E4387595636D0.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_slash.uasset'
+[2018.03.10-15.37.06:917][846]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_slash.uasset
+[2018.03.10-15.37.07:273][846]LogSavePackage: Save=143.72ms
+[2018.03.10-15.37.07:273][846]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Sword_And_Shield_Run22E46224422A4339E068D08A03D8CFF8.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Character/Knight_Character/Animations/Sword_And_Shield_Run.uasset'
+[2018.03.10-15.37.07:347][846]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Character/Knight_Character/Animations/Sword_And_Shield_Run.uasset
+[2018.03.10-15.37.09:916][846]LogSavePackage: Save=2426.68ms
+[2018.03.10-15.37.09:916][846]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/TopDownCharacter03705723492FAFEBBFD585B5F36B8037.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2018.03.10-15.37.09:998][846]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2018.03.10-15.37.10:525][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/StaticMesh" FILE="../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/Meshes/StaticMesh.uasset" SILENT=true
+[2018.03.10-15.37.10:967][846]LogSavePackage: Save=428.61ms
+[2018.03.10-15.37.10:967][846]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/StaticMeshD7AC442747508365E099DBB3CEA6C36C.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/Meshes/StaticMesh.uasset'
+[2018.03.10-15.37.11:029][846]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/Meshes/StaticMesh.uasset

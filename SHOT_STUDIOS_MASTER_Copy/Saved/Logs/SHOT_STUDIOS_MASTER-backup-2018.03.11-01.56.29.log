@@ -1,0 +1,1348 @@
+﻿Log file open, 03/08/18 19:47:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SHOT_STUDIOS_MASTER
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1529070699) SRandInit(-1529070699).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.203694
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.08-08.47.29:134][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.08-08.47.29:134][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.08-08.47.29:266][  0]LogInit: Computer: DESKTOP-VCTKPF9
+[2018.03.08-08.47.29:266][  0]LogInit: User: veeking
+[2018.03.08-08.47.29:266][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.03.08-08.47.29:266][  0]LogInit: High frequency timer resolution =3.613276 MHz
+[2018.03.08-08.47.29:278][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.03.08-08.47.29:278][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.08-08.47.29:278][  0]LogMemory: Process Physical Memory: 272.92 MB used, 272.92 MB peak
+[2018.03.08-08.47.29:278][  0]LogMemory: Process Virtual Memory: 271.35 MB used, 271.35 MB peak
+[2018.03.08-08.47.29:278][  0]LogMemory: Physical Memory: 3619.70 MB used,  4523.64 MB free, 8143.34 MB total
+[2018.03.08-08.47.29:278][  0]LogMemory: Virtual Memory: 680.14 MB used,  4523.64 MB free, 134217728.00 MB total
+[2018.03.08-08.47.30:073][  0]LogInit: Using OS detected language (en-US).
+[2018.03.08-08.47.30:073][  0]LogInit: Using OS detected locale (en-US).
+[2018.03.08-08.47.30:566][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.03.08-08.47.31:372][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.08-08.47.35:363][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.08-08.47.35:430][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2018.03.08-08.47.35:430][  0]LogD3D11RHI:       2028/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2018.03.08-08.47.35:433][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.08-08.47.35:433][  0]LogD3D11RHI:       0/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.08-08.47.35:433][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.08-08.47.35:437][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.08-08.47.35:438][  0]LogD3D11RHI:     GPU DeviceId: 0x6810 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.08-08.47.35:438][  0]LogWindows: EnumDisplayDevices:
+[2018.03.08-08.47.35:438][  0]LogWindows:    0. 'AMD Radeon R9 200 Series' (P:1 D:1)
+[2018.03.08-08.47.35:450][  0]LogWindows:    1. 'AMD Radeon R9 200 Series' (P:0 D:1)
+[2018.03.08-08.47.35:450][  0]LogWindows:    2. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.03.08-08.47.35:450][  0]LogWindows:    3. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.03.08-08.47.35:450][  0]LogWindows:    4. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.03.08-08.47.35:450][  0]LogWindows:    5. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2018.03.08-08.47.35:451][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.08-08.47.35:451][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 Series
+[2018.03.08-08.47.35:451][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.08-08.47.35:451][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.08-08.47.35:451][  0]LogRHI: Texture pool is 1419 MB (70% of 2028 MB)
+[2018.03.08-08.47.35:474][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.08-08.47.35:758][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.03.08-08.47.35:877][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Intermediate/Shaders/WorkingDirectory/9652/).
+[2018.03.08-08.47.35:877][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/veeki/AppData/Local/Temp/UnrealShaderWorkingDir/1EBE8EB246BCDDBA837DC5813CE89E54/'.
+[2018.03.08-08.47.35:878][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.08-08.47.39:415][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.08-08.47.39:473][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.08-08.47.39:530][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.08-08.47.39:588][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.08-08.47.39:657][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.08-08.47.39:715][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.08-08.47.39:782][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.08-08.47.39:843][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.08-08.47.39:895][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.08-08.47.39:953][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.08-08.47.40:009][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.08-08.47.40:066][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.08-08.47.40:123][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.08-08.47.40:179][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.08-08.47.40:303][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.08-08.47.40:303][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.08-08.47.40:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.08-08.47.40:437][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.08-08.47.40:620][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.08-08.47.40:647][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.08-08.47.40:705][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.08-08.47.40:761][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.08-08.47.40:833][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.08-08.47.40:906][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.08-08.47.40:906][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.08-08.47.42:238][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.08-08.47.42:907][  0]LogDerivedDataCache: Loaded boot cache 0.65s 78MB C:/Users/veeki/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.08-08.47.42:908][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/veeki/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.08-08.47.42:908][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.08-08.47.42:908][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.08-08.47.42:908][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.08-08.47.42:908][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.08-08.47.42:973][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.08-08.47.43:014][  0]LogDerivedDataCache: Using Local data cache path C:/Users/veeki/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.08-08.47.43:096][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.08-08.47.43:154][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.08-08.47.43:231][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.08-08.47.43:246][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.08-08.47.50:234][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.08-08.47.52:163][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.08-08.47.52:216][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.08-08.47.52:216][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.08-08.47.52:216][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.08-08.47.52:216][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.08-08.47.52:216][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.08-08.47.52:933][  0]LogNetVersion: SHOT_STUDIOS_MASTER , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2059099905)
+[2018.03.08-08.47.54:853][  0]LogAssetRegistry: FAssetRegistry took 0.0613 seconds to start up
+[2018.03.08-08.48.01:994][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.279781 seconds
+[2018.03.08-08.48.02:040][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.03.08-08.48.02:041][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.03.08-08.48.02:041][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.08-08.48.02:138][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.08-08.48.29:398][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.08-08.48.29:467][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.08-08.48.31:394][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.08-08.48.32:790][  0]SourceControl: Source control is disabled
+[2018.03.08-08.48.32:791][  0]SourceControl: Source control is disabled
+[2018.03.08-08.48.32:955][  0]SourceControl: Source control is disabled
+[2018.03.08-08.48.33:117][  0]SourceControl: Source control is disabled
+[2018.03.08-08.48.34:895][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.08-08.48.35:296][  0]LogOcInput: OculusInput pre-init called
+[2018.03.08-08.48.36:392][  0]LogEngine: Initializing Engine...
+[2018.03.08-08.48.36:481][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.08-08.48.37:721][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.08-08.48.37:722][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.08-08.48.38:402][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.08-08.48.38:573][  0]LogInit: XAudio2 using 'Speakers (USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-08.48.38:597][  0]LogInit: FAudioDevice initialized.
+[2018.03.08-08.48.38:825][  0]LogDerivedDataCache: Saved boot cache 0.21s 78MB C:/Users/veeki/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.08-08.48.38:842][  0]LogInit: Texture streaming: Enabled
+[2018.03.08-08.48.39:189][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.08-08.48.40:250][  0]LogInit: Transaction tracking system initialized
+[2018.03.08-08.48.41:513][  0]BlueprintLog: New page: Editor Load
+[2018.03.08-08.48.45:391][  0]LocalizationService: Localization service is disabled
+[2018.03.08-08.48.48:806][  0]LogConsoleResponse: Display: 
+[2018.03.08-08.48.54:350][  0]LogFileCache: Scanning file cache for directory 'C:/Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/' took 0.04s
+[2018.03.08-08.48.54:350][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.08-08.48.54:351][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.08-08.48.54:364][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.08-08.48.57:598][  0]SourceControl: Source control is disabled
+[2018.03.08-08.48.57:642][  0]Cmd: MAP LOAD FILE="../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.08-08.48.57:684][  0]LightingResults: New page: Lighting Build
+[2018.03.08-08.48.58:429][  0]MapCheck: New page: Map Check
+[2018.03.08-08.48.58:429][  0]LightingResults: New page: Lighting Build
+[2018.03.08-08.49.02:742][  0]LogBlueprint: Warning: [Compiler Knight_AnimBP] Idle to Movement  will never be taken, please connect something to  Can Enter Transition
+[2018.03.08-08.49.02:742][  0]LogBlueprint: Warning: [Compiler Knight_AnimBP] Movement to Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.03.08-08.49.02:899][  0]LogBlueprint: Warning: [Compiler Knight_AnimBP] [0108.11] Compile of Knight_AnimBP successful, but with 2 Warning(s) [in 1,467 ms] (/Game/TopDownBP/Character/Knight_Character/Knight_AnimBP.Knight_AnimBP)
+[2018.03.08-08.49.04:376][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2018.03.08-08.49.04:376][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.03.08-08.49.04:377][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2018.03.08-08.49.04:377][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2018.03.08-08.49.04:450][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] [0109.67] Compile of Ue4ASP_Character successful, but with 4 Warning(s) [in 213 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2018.03.08-08.49.07:681][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.08-08.49.08:856][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.08-08.49.09:092][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.08-08.49.09:212][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 113.174ms to complete.
+[2018.03.08-08.49.09:212][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 11.587
+[2018.03.08-08.49.11:945][  0]LogCollectionManager: Loaded 0 collections in 0.002381 seconds
+[2018.03.08-08.49.12:159][  0]LogFileCache: Scanning file cache for directory 'C:/Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Collections/' took 0.01s
+[2018.03.08-08.49.12:159][  0]LogFileCache: Scanning file cache for directory 'C:/Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/Developers/veeking/Collections/' took 0.01s
+[2018.03.08-08.49.12:159][  0]LogFileCache: Scanning file cache for directory 'C:/Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/Collections/' took 0.01s
+[2018.03.08-08.49.12:159][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.08-08.49.12:168][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2363 classes and 519 folders.
+[2018.03.08-08.49.12:449][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.08-08.49.13:670][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.08-08.49.13:809][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.08-08.49.14:501][  0]LogSlate: Took 0.021254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.08-08.49.14:528][  0]LogSlate: Took 0.022221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.08-08.49.14:594][  0]LogSlate: Took 0.016796 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.08-08.49.15:394][  0]LogRenderer: Reallocating scene render targets to support 844x420 Format 10 NumSamples 1 (Frame:1).
+[2018.03.08-08.49.16:235][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.08-08.49.16:235][  0]LogLoad: (Engine Initialization) Total time: 121.45 seconds
+[2018.03.08-08.49.16:235][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.08-08.49.16:264][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.03.08-08.49.16:770][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.08-08.49.17:396][  1]LogSlate: Took 0.024200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.08-08.49.17:528][  2]LogAssetRegistry: Asset discovery search completed in 82.6969 seconds
+[2018.03.08-08.49.17:530][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.08-08.49.17:530][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
+[2018.03.08-08.50.07:277][809]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:5796).
+[2018.03.08-08.50.13:124][360]LogSlate: Took 0.014269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.08-08.50.13:372][360]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.08-08.50.13:681][360]LogSlate: Took 0.000841 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.08-08.50.13:971][360]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2018.03.08-08.50.14:195][360]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2018.03.08-08.50.15:281][360]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.08-08.50.16:042][360]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.03.08-08.50.21:642][360]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0311 seconds. Added 1 classes and 0 folders.
+[2018.03.08-08.50.21:691][360]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.08-08.50.32:899][316]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_walk.sword_and_shield_walk
+[2018.03.08-08.50.32:909][316]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_walk.sword_and_shield_walk) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-08.50.32:969][320]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_walk__2_.sword_and_shield_walk__2_
+[2018.03.08-08.50.32:969][320]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_walk__2_.sword_and_shield_walk__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-08.50.45:895][827]Cmd: TRANSACTION UNDO
+[2018.03.08-08.50.45:895][827]LogEditorTransaction: Undo Adding Blend Grid Sample
+[2018.03.08-08.50.46:095][827]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.08-08.50.46:149][827]LogSlate: Took 0.017156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.08-08.59.16:550][583]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.065
+[2018.03.08-09.02.53:815][697]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.03.08-09.02.54:444][697]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.03.08-09.02.55:645][697]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.03.08-09.02.56:091][697]LogSlate: Took 0.023999 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.08-09.03.00:012][ 67]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-09.03.00:213][ 67]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.03.00:230][ 67]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-09.03.00:372][ 67]PIE: New page: PIE session: TopDownExampleMap (Mar 9, 2018, 7:03:00 AM)
+[2018.03.08-09.03.00:390][ 67]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.03.08-09.03.00:540][ 67]LogPlayLevel: PIE: StaticDuplicateObject took: (0.150375s)
+[2018.03.08-09.03.00:542][ 67]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.08-09.03.00:557][ 67]LogPlayLevel: PIE: World Init took: (0.016474s)
+[2018.03.08-09.03.00:576][ 67]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.186093s)
+[2018.03.08-09.03.00:652][ 67]LogInit: XAudio2 using 'Speakers (USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-09.03.00:661][ 67]LogInit: FAudioDevice initialized.
+[2018.03.08-09.03.00:768][ 67]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.03.08-09.03.00:796][ 67]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.03.08-20.03.00
+[2018.03.08-09.03.00:893][ 67]LogWorld: Bringing up level for play took: 0.112172
+[2018.03.08-09.03.01:032][ 67]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.03.08-09.03.01:114][ 67]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.891
+[2018.03.08-09.03.01:114][ 67]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.03.35:979][117]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.03.36:125][117]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.04.00:440][609]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/Sword_And_Shield_Run.sword_and_shield_run
+[2018.03.08-09.04.00:440][609]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/Sword_And_Shield_Run.sword_and_shield_run) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.04.12:349][250]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_slash__4_.sword_and_shield_slash__4_
+[2018.03.08-09.04.12:349][250]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_slash__4_.sword_and_shield_slash__4_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.04.12:437][250]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_strafe__3_.sword_and_shield_strafe__3_
+[2018.03.08-09.04.12:438][250]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_strafe__3_.sword_and_shield_strafe__3_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.04.12:466][251]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_strafe__4_.sword_and_shield_strafe__4_
+[2018.03.08-09.04.12:466][251]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_strafe__4_.sword_and_shield_strafe__4_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.04.12:535][258]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_turn.sword_and_shield_turn
+[2018.03.08-09.04.12:535][258]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_turn.sword_and_shield_turn) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.04.12:575][261]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_turn__2_.sword_and_shield_turn__2_
+[2018.03.08-09.04.12:575][261]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_turn__2_.sword_and_shield_turn__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.04.59:845][308]LogEditorFactories: Performing atomic reimport of [C:/Users/veeki/Downloads/Sword And Shield Run.fbx]
+[2018.03.08-09.04.59:971][308]LogFbx: Loading FBX Scene from C:/Users/veeki/Downloads/Sword And Shield Run.fbx
+[2018.03.08-09.05.00:067][308]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.08-09.05.00:110][308]LogFbx: =================================================
+[2018.03.08-09.05.00:110][308]LogFbx: Dumping Node START [Alpha_Surface] 
+[2018.03.08-09.05.00:110][308]LogFbx: 	Total Deformer Count 308300432.
+[2018.03.08-09.05.00:110][308]LogFbx: 		[Node 1] Skin Alpha_Surface (Type Skin).
+[2018.03.08-09.05.00:110][308]LogFbx: =================================================
+[2018.03.08-09.05.00:110][308]LogFbx: 	Attribute (Alpha_Surface) Type (4).
+[2018.03.08-09.05.00:110][308]LogFbx: 		[Node Attribute Child 1] Alpha_Surface (Type Mesh).
+[2018.03.08-09.05.00:110][308]LogFbx: Dumping Node END [Alpha_Surface]
+[2018.03.08-09.05.00:110][308]LogFbx: =================================================
+[2018.03.08-09.05.00:110][308]LogFbx: Dumping Node START [Alpha_Joints] 
+[2018.03.08-09.05.00:110][308]LogFbx: 	Total Deformer Count 308300432.
+[2018.03.08-09.05.00:110][308]LogFbx: 		[Node 1] Skin Alpha_Joints (Type Skin).
+[2018.03.08-09.05.00:110][308]LogFbx: =================================================
+[2018.03.08-09.05.00:110][308]LogFbx: 	Attribute (Alpha_Joints) Type (4).
+[2018.03.08-09.05.00:110][308]LogFbx: 		[Node Attribute Child 1] Alpha_Joints (Type Mesh).
+[2018.03.08-09.05.00:110][308]LogFbx: Dumping Node END [Alpha_Joints]
+[2018.03.08-09.05.00:111][308]LogFbx: =================================================
+[2018.03.08-09.05.00:112][308]LogFbx: Dumping Node START [Alpha_Surface] 
+[2018.03.08-09.05.00:112][308]LogFbx: 	Total Deformer Count 308300432.
+[2018.03.08-09.05.00:112][308]LogFbx: 		[Node 1] Skin Alpha_Surface (Type Skin).
+[2018.03.08-09.05.00:112][308]LogFbx: =================================================
+[2018.03.08-09.05.00:112][308]LogFbx: 	Attribute (Alpha_Surface) Type (4).
+[2018.03.08-09.05.00:112][308]LogFbx: 		[Node Attribute Child 1] Alpha_Surface (Type Mesh).
+[2018.03.08-09.05.00:112][308]LogFbx: Dumping Node END [Alpha_Surface]
+[2018.03.08-09.05.00:112][308]LogFbx: =================================================
+[2018.03.08-09.05.00:112][308]LogFbx: Dumping Node START [Alpha_Joints] 
+[2018.03.08-09.05.00:112][308]LogFbx: 	Total Deformer Count 308300432.
+[2018.03.08-09.05.00:112][308]LogFbx: 		[Node 1] Skin Alpha_Joints (Type Skin).
+[2018.03.08-09.05.00:112][308]LogFbx: =================================================
+[2018.03.08-09.05.00:112][308]LogFbx: 	Attribute (Alpha_Joints) Type (4).
+[2018.03.08-09.05.00:112][308]LogFbx: 		[Node Attribute Child 1] Alpha_Joints (Type Mesh).
+[2018.03.08-09.05.00:112][308]LogFbx: Dumping Node END [Alpha_Joints]
+[2018.03.08-09.05.00:123][308]LogFbx: Parsing AnimStack mixamo.com
+[2018.03.08-09.05.00:424][308]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/Sword_And_Shield_Run.sword_and_shield_run
+[2018.03.08-09.05.00:424][308]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.sword_and_shield_run) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.05.00:525][308]LogEditorFactories: -- imported successfully
+[2018.03.08-09.05.00:532][308]FBXImport: Warning: The following bones exist in the imported animation, but not in the Skeleton asset paladin_prop_j_nordstrom_Skeleton.  Any animation on these bones will not be imported: 
+
+ LeftEye  
+RightEye  
+ 
+[2018.03.08-09.05.10:862][333]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_slash__5_.sword_and_shield_slash__5_
+[2018.03.08-09.05.10:862][333]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_slash__5_.sword_and_shield_slash__5_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.05.10:899][334]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_strafe__2_.sword_and_shield_strafe__2_
+[2018.03.08-09.05.10:899][334]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_strafe__2_.sword_and_shield_strafe__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.05.11:226][370]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_strafe.sword_and_shield_strafe
+[2018.03.08-09.05.11:226][370]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_strafe.sword_and_shield_strafe) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.05.11:420][387]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_slash__2_.sword_and_shield_slash__2_
+[2018.03.08-09.05.11:420][387]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_slash__2_.sword_and_shield_slash__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.05.11:739][408]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_run__2_.sword_and_shield_run__2_
+[2018.03.08-09.05.11:740][408]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_run__2_.sword_and_shield_run__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.05.11:765][410]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_power_up.sword_and_shield_power_up
+[2018.03.08-09.05.11:765][410]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_power_up.sword_and_shield_power_up) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.05.11:815][412]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_jump__2_.sword_and_shield_jump__2_
+[2018.03.08-09.05.11:815][412]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_jump__2_.sword_and_shield_jump__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.05.11:885][414]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_impact__3_.sword_and_shield_impact__3_
+[2018.03.08-09.05.11:885][414]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_impact__3_.sword_and_shield_impact__3_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.06.09:470][965]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.08-09.06.12:287][286]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_180_turn.sword_and_shield_180_turn
+[2018.03.08-09.06.12:287][286]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_180_turn.sword_and_shield_180_turn) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.06.12:321][287]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_180_turn__2_.sword_and_shield_180_turn__2_
+[2018.03.08-09.06.12:321][287]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_180_turn__2_.sword_and_shield_180_turn__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.06.12:503][303]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sheath_sword_2.sheath_sword_2
+[2018.03.08-09.06.12:503][303]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sheath_sword_2.sheath_sword_2) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.06.12:549][307]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sheath_sword_1.sheath_sword_1
+[2018.03.08-09.06.12:549][307]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sheath_sword_1.sheath_sword_1) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.06.14:667][499]LogSlate: Took 0.016632 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.08-09.08.42:325][975]BlueprintLog: New page: Compile Knight_AnimBP
+[2018.03.08-09.08.42:356][975]LogBlueprint: Warning: [Compiler Knight_AnimBP] Idle to Movement  will never be taken, please connect something to  Can Enter Transition
+[2018.03.08-09.08.42:356][975]LogBlueprint: Warning: [Compiler Knight_AnimBP] Movement to Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.03.08-09.08.42:372][975]LogBlueprint: Error: [Compiler Knight_AnimBP] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2018.03.08-09.08.42:391][975]LogBlueprint: Error: [Compiler Knight_AnimBP] Variable node  Get CharacterMovement  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.03.08-09.08.42:820][975]LogBlueprint: Warning: [Compiler Knight_AnimBP] [1288.04] Compile of Knight_AnimBP failed. 2 Fatal Issue(s) 2 Warning(s) [in 495 ms] (/Game/TopDownBP/Character/Knight_Character/Knight_AnimBP.Knight_AnimBP)
+[2018.03.08-09.09.04:471][233]BlueprintLog: New page: Compile Knight_AnimBP
+[2018.03.08-09.09.04:484][233]LogBlueprint: Warning: [Compiler Knight_AnimBP] Idle to Movement  will never be taken, please connect something to  Can Enter Transition
+[2018.03.08-09.09.04:484][233]LogBlueprint: Warning: [Compiler Knight_AnimBP] Movement to Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.03.08-09.09.04:485][233]LogBlueprint: Error: [Compiler Knight_AnimBP] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2018.03.08-09.09.04:485][233]LogBlueprint: Error: [Compiler Knight_AnimBP] Variable node  Get CharacterMovement  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.03.08-09.09.04:611][233]LogBlueprint: Warning: [Compiler Knight_AnimBP] [1309.83] Compile of Knight_AnimBP failed. 2 Fatal Issue(s) 2 Warning(s) [in 140 ms] (/Game/TopDownBP/Character/Knight_Character/Knight_AnimBP.Knight_AnimBP)
+[2018.03.08-09.09.24:702][209]BlueprintLog: New page: Compile Knight_AnimBP
+[2018.03.08-09.09.24:714][209]LogBlueprint: Warning: [Compiler Knight_AnimBP] Idle to Movement  will never be taken, please connect something to  Can Enter Transition
+[2018.03.08-09.09.24:714][209]LogBlueprint: Warning: [Compiler Knight_AnimBP] Movement to Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.03.08-09.09.24:715][209]LogBlueprint: Error: [Compiler Knight_AnimBP] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2018.03.08-09.09.24:715][209]LogBlueprint: Error: [Compiler Knight_AnimBP] Variable node  Get CharacterMovement  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.03.08-09.09.24:843][209]LogBlueprint: Warning: [Compiler Knight_AnimBP] [1330.06] Compile of Knight_AnimBP failed. 2 Fatal Issue(s) 2 Warning(s) [in 141 ms] (/Game/TopDownBP/Character/Knight_Character/Knight_AnimBP.Knight_AnimBP)
+[2018.03.08-09.10.07:107][197]BlueprintLog: New page: Compile Knight_AnimBP
+[2018.03.08-09.10.07:123][197]LogBlueprint: Warning: [Compiler Knight_AnimBP] Idle to Movement  will never be taken, please connect something to  Can Enter Transition
+[2018.03.08-09.10.07:123][197]LogBlueprint: Warning: [Compiler Knight_AnimBP] Movement to Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.03.08-09.10.07:124][197]LogBlueprint: Error: [Compiler Knight_AnimBP] This blueprint (self) is not a PawnMovementComponent, therefore ' Target ' must have a connection.
+[2018.03.08-09.10.07:261][197]LogBlueprint: Warning: [Compiler Knight_AnimBP] [1372.48] Compile of Knight_AnimBP failed. 1 Fatal Issue(s) 2 Warning(s) [in 154 ms] (/Game/TopDownBP/Character/Knight_Character/Knight_AnimBP.Knight_AnimBP)
+[2018.03.08-09.10.36:772][ 34]BlueprintLog: New page: Compile Knight_AnimBP
+[2018.03.08-09.10.36:784][ 34]LogBlueprint: Warning: [Compiler Knight_AnimBP] Idle to Movement  will never be taken, please connect something to  Can Enter Transition
+[2018.03.08-09.10.36:784][ 34]LogBlueprint: Warning: [Compiler Knight_AnimBP] Movement to Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.03.08-09.10.36:906][ 34]LogBlueprint: Warning: [Compiler Knight_AnimBP] [1402.12] Compile of Knight_AnimBP successful, but with 2 Warning(s) [in 133 ms] (/Game/TopDownBP/Character/Knight_Character/Knight_AnimBP.Knight_AnimBP)
+[2018.03.08-09.10.51:418][904]MapCheck: New page: Map Check
+[2018.03.08-09.10.51:460][904]LightingResults: New page: Lighting Build - Mar 9, 2018, 7:10:51 AM
+[2018.03.08-09.10.52:372][904]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.03.08-09.10.52:633][904]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.03.08-09.10.52:772][904]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.03.08-09.10.55:596][904]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2018.03.08-09.10.55:724][904]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags)
+[2018.03.08-09.11.01:308][904]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.03.08-09.11.01:308][904]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9652
+[2018.03.08-09.11.07:756][904]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.03.08-09.11.07:757][904]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.03.08-09.11.07:757][904]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.03.08-09.11.07:757][904]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.03.08-09.11.07:757][904]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.03.08-09.11.08:473][904]LogEditorBuildUtils: Build time 0:17
+[2018.03.08-09.11.08:506][904]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2018.03.08-09.11.08:512][904]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2018.03.08-09.11.08:549][905]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2018.03.08-09.11.08:557][905]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2018.03.08-09.11.08:588][906]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.03.08-09.11.08:611][906]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.03.08-09.11.14:078][916]LogSavePackage: Save=512.28ms
+[2018.03.08-09.11.14:078][916]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/TopDownExampleMap_Auto1CAF200224917804D0109018F56A92878.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2018.03.08-09.11.14:097][916]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap
+[2018.03.08-09.11.14:149][916]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.886
+[2018.03.08-09.11.14:149][916]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.886
+[2018.03.08-09.11.14:156][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Character/Knight_Character/Knight_AnimBP] ([1] browsable assets)...
+[2018.03.08-09.11.14:174][916]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/TopDownBP/Character/Knight_Character/Knight_AnimBP.Knight_AnimBP]
+[2018.03.08-09.11.14:175][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Character/Knight_Character/Knight_AnimBP]
+[2018.03.08-09.11.14:433][916]LogSavePackage: Save=236.36ms
+[2018.03.08-09.11.14:433][916]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Knight_AnimBP_Auto19BD192054826A49ECEA332A322BDE8C8.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Character/Knight_Character/Knight_AnimBP_Auto1.uasset'
+[2018.03.08-09.11.14:459][916]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Character/Knight_Character/Knight_AnimBP_Auto1.uasset
+[2018.03.08-09.11.14:462][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Character/Knight_Character/Knight_AnimBS] ([1] browsable assets)...
+[2018.03.08-09.11.14:480][916]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/TopDownBP/Character/Knight_Character/Knight_AnimBS.Knight_AnimBS]
+[2018.03.08-09.11.14:480][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Character/Knight_Character/Knight_AnimBS]
+[2018.03.08-09.11.14:528][916]LogSavePackage: Save=25.87ms
+[2018.03.08-09.11.14:528][916]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Knight_AnimBS_Auto1E2FD41704B6F082B1D0E9BA40674306C.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Character/Knight_Character/Knight_AnimBS_Auto1.uasset'
+[2018.03.08-09.11.14:533][916]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Character/Knight_Character/Knight_AnimBS_Auto1.uasset
+[2018.03.08-09.11.14:537][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Character/Knight_Character/Animations/Sword_And_Shield_Run] ([1] browsable assets)...
+[2018.03.08-09.11.14:556][916]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/Sword_And_Shield_Run.sword_and_shield_run]
+[2018.03.08-09.11.14:556][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Character/Knight_Character/Animations/Sword_And_Shield_Run]
+[2018.03.08-09.11.14:600][916]LogSavePackage: Save=21.41ms
+[2018.03.08-09.11.14:600][916]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Sword_And_Shield_Run_Auto1E83D60E942494B22328D7D8CDA4D2EAE.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Character/Knight_Character/Animations/Sword_And_Shield_Run_Auto1.uasset'
+[2018.03.08-09.11.14:605][916]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Character/Knight_Character/Animations/Sword_And_Shield_Run_Auto1.uasset
+[2018.03.08-09.11.14:605][916]LogFileHelpers: Auto-saving content packages took 0.454
+[2018.03.08-09.11.23:067][330]Job is a success!
+[2018.03.08-09.11.23:166][331]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.027s
+[2018.03.08-09.11.23:166][331]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.03.08-09.11.23:166][331]LogVolumetricLightmapImport:      BrickData 175x5x5 = 0.1Mb
+[2018.03.08-09.11.23:166][331]LogVolumetricLightmapImport:      Bricks at Level
+[2018.03.08-09.11.23:166][331]LogVolumetricLightmapImport:          0: 2.9% covering 100.0% of volume
+[2018.03.08-09.11.23:166][331]LogVolumetricLightmapImport:          1: 11.4% covering 6.3% of volume
+[2018.03.08-09.11.23:166][331]LogVolumetricLightmapImport:          2: 85.7% covering 0.7% of volume
+[2018.03.08-09.11.24:282][331]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.03.08-09.11.24:282][331]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.03.08-09.11.24:282][331]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.03.08-09.11.24:282][331]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2018.03.08-09.11.24:282][331]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2018.03.08-09.11.24:282][331]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2018.03.08-09.11.24:282][331]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2018.03.08-09.11.24:282][331]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.03.08-09.11.24:282][331]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.03.08-09.11.24:659][331]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2018.03.08-09.11.24:659][331]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.03.08-09.11.25:055][331]Lightmass on DESKTOP-VCTKPF9: 11.4 sec total, 215 ms importing, 22 ms setup, 2.34 sec photons, 8.72 sec processing, 0 ms extra exporting [25/25 mappings]. Threads: 34.8 sec total, 16.8 sec processing.
+[2018.03.08-09.11.25:117][331]LogStaticLightingSystem: Illumination: 33.6 sec (1.03 sec encoding lightmaps, 370 ms encoding shadowmaps)
+[2018.03.08-09.11.25:117][331]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2018.03.08-09.11.25:117][331]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.03.08-09.11.25:675][331]DumpUnbuiltLightIteractions
+[2018.03.08-09.11.25:675][331]Lights with unbuilt interactions: 0
+[2018.03.08-09.11.25:675][331]
+[2018.03.08-09.11.25:675][331]Primitives with unbuilt interactions: 0
+[2018.03.08-09.11.25:681][332]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.03.08-09.11.25:681][332]MapCheck: New page: TopDownExampleMap - Mar 9, 2018, 7:11:25 AM
+[2018.03.08-09.11.25:900][332]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 218.752ms to complete.
+[2018.03.08-09.12.48:855][613]BlueprintLog: New page: Compile Knight_AnimBP
+[2018.03.08-09.12.56:697][427]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-09.12.56:721][427]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.12.56:722][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-09.12.56:722][427]PIE: New page: PIE session: TopDownExampleMap (Mar 9, 2018, 7:12:56 AM)
+[2018.03.08-09.12.56:722][427]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.03.08-09.12.56:743][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021320s)
+[2018.03.08-09.12.56:744][427]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.08-09.12.56:745][427]LogPlayLevel: PIE: World Init took: (0.001312s)
+[2018.03.08-09.12.56:745][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.023072s)
+[2018.03.08-09.12.56:784][427]LogInit: XAudio2 using 'Speakers (USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-09.12.56:795][427]LogInit: FAudioDevice initialized.
+[2018.03.08-09.12.56:846][427]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.03.08-09.12.56:849][427]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.03.08-20.12.56
+[2018.03.08-09.12.56:850][427]LogWorld: Bringing up level for play took: 0.003061
+[2018.03.08-09.12.56:851][427]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.628
+[2018.03.08-09.12.56:852][427]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.13.14:565][358]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.13.14:600][358]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.13.33:516][412]LogSavePackage: Save=20.09ms
+[2018.03.08-09.13.33:516][412]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Knight_AnimBS283EA4DA4926574FA7D9C09635CF3C56.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Character/Knight_Character/Knight_AnimBS.uasset'
+[2018.03.08-09.13.33:532][412]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Character/Knight_Character/Knight_AnimBS.uasset
+[2018.03.08-09.13.34:935][559]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-09.13.34:956][559]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.13.34:956][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-09.13.34:956][559]PIE: New page: PIE session: TopDownExampleMap (Mar 9, 2018, 7:13:34 AM)
+[2018.03.08-09.13.34:956][559]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.03.08-09.13.34:974][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017466s)
+[2018.03.08-09.13.34:975][559]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.08-09.13.34:975][559]LogPlayLevel: PIE: World Init took: (0.001159s)
+[2018.03.08-09.13.34:975][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.019040s)
+[2018.03.08-09.13.35:013][559]LogInit: XAudio2 using 'Speakers (USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-09.13.35:023][559]LogInit: FAudioDevice initialized.
+[2018.03.08-09.13.35:061][559]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.03.08-09.13.35:066][559]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.03.08-20.13.35
+[2018.03.08-09.13.35:066][559]LogWorld: Bringing up level for play took: 0.004948
+[2018.03.08-09.13.35:068][559]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.845
+[2018.03.08-09.13.35:068][559]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.13.49:368][108]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.13.49:401][108]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.13.58:746][458]LogSavePackage: Save=287.24ms
+[2018.03.08-09.13.58:746][458]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/TopDownExampleMap2C1B05234A0E3A4E180527BE7D7BD3B6.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.03.08-09.13.58:770][458]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.03.08-09.13.58:827][458]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.551
+[2018.03.08-09.13.59:107][458]LogSavePackage: Save=269.97ms
+[2018.03.08-09.13.59:107][458]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/TopDownExampleMap_BuiltData6E5CDB1F4ABC51E26A025C87A9BD6623.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.03.08-09.13.59:117][458]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2018.03.08-09.13.59:229][458]LogSavePackage: Save=76.08ms
+[2018.03.08-09.13.59:229][458]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Knight_AnimBPD25DFCF34C6CC4F33ABA3492A8A08231.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Character/Knight_Character/Knight_AnimBP.uasset'
+[2018.03.08-09.13.59:239][458]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Character/Knight_Character/Knight_AnimBP.uasset
+[2018.03.08-09.13.59:264][458]LogSavePackage: Save=8.85ms
+[2018.03.08-09.13.59:264][458]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Sword_And_Shield_Run1142DE3A400E322FE13348936717A468.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Character/Knight_Character/Animations/Sword_And_Shield_Run.uasset'
+[2018.03.08-09.13.59:274][458]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Character/Knight_Character/Animations/Sword_And_Shield_Run.uasset
+[2018.03.08-09.15.16:136][351]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-09.15.16:157][351]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.15.16:157][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-09.15.16:158][351]PIE: New page: PIE session: TopDownExampleMap (Mar 9, 2018, 7:15:16 AM)
+[2018.03.08-09.15.16:158][351]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.03.08-09.15.16:189][351]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031104s)
+[2018.03.08-09.15.16:190][351]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.08-09.15.16:190][351]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2018.03.08-09.15.16:190][351]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.032716s)
+[2018.03.08-09.15.16:223][351]LogInit: XAudio2 using 'Speakers (USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-09.15.16:233][351]LogInit: FAudioDevice initialized.
+[2018.03.08-09.15.16:267][351]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.03.08-09.15.16:271][351]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.03.08-20.15.16
+[2018.03.08-09.15.16:272][351]LogWorld: Bringing up level for play took: 0.004199
+[2018.03.08-09.15.16:273][351]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.051
+[2018.03.08-09.15.16:274][351]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.15.38:894][ 11]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.15.38:931][ 11]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.16.12:716][ 86]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_attack__3_.sword_and_shield_attack__3_
+[2018.03.08-09.16.12:716][ 86]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_attack__3_.sword_and_shield_attack__3_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.17.05:985][534]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2018.03.08-09.17.06:197][534]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.Actor_2.DebugSkelMeshComponent_5) - call TermArticulated first.
+[2018.03.08-09.17.06:512][534]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.08-09.17.30:597][209]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_attack.sword_and_shield_attack
+[2018.03.08-09.17.30:597][209]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_attack.sword_and_shield_attack) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.17.30:656][211]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_attack__2_.sword_and_shield_attack__2_
+[2018.03.08-09.17.30:656][211]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_attack__2_.sword_and_shield_attack__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.17.31:578][312]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_attack__4_.sword_and_shield_attack__4_
+[2018.03.08-09.17.31:578][312]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_attack__4_.sword_and_shield_attack__4_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.17.31:611][312]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_block__2_.sword_and_shield_block__2_
+[2018.03.08-09.17.31:611][312]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_block__2_.sword_and_shield_block__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.17.31:776][330]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_block.sword_and_shield_block
+[2018.03.08-09.17.31:776][330]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_block.sword_and_shield_block) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.17.34:537][656]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.Actor_3.DebugSkelMeshComponent_7) Already registered. Aborting.
+[2018.03.08-09.17.34:581][656]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.Actor_3.DebugSkelMeshComponent_7) - call TermArticulated first.
+[2018.03.08-09.17.34:916][656]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.08-09.17.39:777][991]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_block_idle.sword_and_shield_block_idle
+[2018.03.08-09.17.39:777][991]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_block_idle.sword_and_shield_block_idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.17.39:838][992]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_casting.sword_and_shield_casting
+[2018.03.08-09.17.39:838][992]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_casting.sword_and_shield_casting) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.17.41:414][169]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.Actor_4.DebugSkelMeshComponent_10) Already registered. Aborting.
+[2018.03.08-09.17.41:450][169]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.Actor_4.DebugSkelMeshComponent_10) - call TermArticulated first.
+[2018.03.08-09.17.41:795][169]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.08-09.17.44:233][354]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_casting__2_.sword_and_shield_casting__2_
+[2018.03.08-09.17.44:233][354]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_casting__2_.sword_and_shield_casting__2_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.17.45:113][453]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.Actor_5.DebugSkelMeshComponent_13) Already registered. Aborting.
+[2018.03.08-09.17.45:139][453]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.Actor_5.DebugSkelMeshComponent_13) - call TermArticulated first.
+[2018.03.08-09.17.45:470][453]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.08-09.18.33:523][698]BlueprintLog: New page: Compile Knight_AnimBP
+[2018.03.08-09.18.33:540][698]LogBlueprint: Warning: [Compiler Knight_AnimBP] Movement to Sword_Attack  will never be taken, please connect something to  Can Enter Transition
+[2018.03.08-09.18.33:540][698]LogBlueprint: Warning: [Compiler Knight_AnimBP] Sword_Attack to Movement  will never be taken, please connect something to  Can Enter Transition
+[2018.03.08-09.18.33:662][698]LogBlueprint: Warning: [Compiler Knight_AnimBP] [1878.88] Compile of Knight_AnimBP successful, but with 2 Warning(s) [in 139 ms] (/Game/TopDownBP/Character/Knight_Character/Knight_AnimBP.Knight_AnimBP)
+[2018.03.08-09.19.06:386][350]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2018.03.08-09.19.07:137][357]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2018.03.08-09.19.07:775][419]LogEditorViewport: Clicking on Actor (context menu): TopDownCharacter_C (TopDownCharacter)
+[2018.03.08-09.19.11:882][688]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2018.03.08-09.24.00:472][699]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.03.08-09.25.54:359][567]BlueprintLog: New page: Compile TopDownCharacter
+[2018.03.08-09.26.50:068][ 95]LogSavePackage: Save=220.90ms
+[2018.03.08-09.26.50:068][ 95]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/TopDownExampleMap_Auto285FC0D9A467B47FC37B1B19D94DCFB79.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap'
+[2018.03.08-09.26.50:072][ 95]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap
+[2018.03.08-09.26.50:076][ 95]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.288
+[2018.03.08-09.26.50:076][ 95]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.288
+[2018.03.08-09.26.50:080][ 95]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Character/Knight_Character/Knight_AnimBP] ([1] browsable assets)...
+[2018.03.08-09.26.50:098][ 95]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/TopDownBP/Character/Knight_Character/Knight_AnimBP.Knight_AnimBP]
+[2018.03.08-09.26.50:098][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Character/Knight_Character/Knight_AnimBP]
+[2018.03.08-09.26.50:190][ 95]LogSavePackage: Save=78.64ms
+[2018.03.08-09.26.50:190][ 95]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Knight_AnimBP_Auto2C8FC8EA340D61222DC535EBFD6011933.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Character/Knight_Character/Knight_AnimBP_Auto2.uasset'
+[2018.03.08-09.26.50:194][ 95]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Character/Knight_Character/Knight_AnimBP_Auto2.uasset
+[2018.03.08-09.26.50:196][ 95]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownCharacter] ([1] browsable assets)...
+[2018.03.08-09.26.50:213][ 95]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter]
+[2018.03.08-09.26.50:213][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownCharacter]
+[2018.03.08-09.26.50:317][ 95]LogSavePackage: Save=90.92ms
+[2018.03.08-09.26.50:317][ 95]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/TopDownCharacter_Auto2B72B37B446F60327870BA48C55F84FFA.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownCharacter_Auto2.uasset'
+[2018.03.08-09.26.50:322][ 95]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownCharacter_Auto2.uasset
+[2018.03.08-09.26.50:322][ 95]LogFileHelpers: Auto-saving content packages took 0.245
+[2018.03.08-09.27.03:488][414]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.Actor_6.DebugSkelMeshComponent_16) Already registered. Aborting.
+[2018.03.08-09.27.03:513][414]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_29:PersistentLevel.Actor_6.DebugSkelMeshComponent_16) - call TermArticulated first.
+[2018.03.08-09.27.03:850][414]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.08-09.27.34:484][766]BlueprintLog: New page: Compile TopDownCharacter
+[2018.03.08-09.28.46:732][878]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2018.03.08-09.29.21:417][748]BlueprintLog: New page: Compile Knight_AnimBP
+[2018.03.08-09.29.21:435][748]LogBlueprint: Warning: [Compiler Knight_AnimBP] Movement to Sword_Attack  will never be taken, please connect something to  Can Enter Transition
+[2018.03.08-09.29.21:435][748]LogBlueprint: Warning: [Compiler Knight_AnimBP] Sword_Attack to Movement  will never be taken, please connect something to  Can Enter Transition
+[2018.03.08-09.29.21:561][748]LogBlueprint: Warning: [Compiler Knight_AnimBP] [2526.78] Compile of Knight_AnimBP successful, but with 2 Warning(s) [in 143 ms] (/Game/TopDownBP/Character/Knight_Character/Knight_AnimBP.Knight_AnimBP)
+[2018.03.08-09.29.56:168][306]BlueprintLog: New page: Compile Knight_AnimBP
+[2018.03.08-09.30.00:215][561]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-09.30.00:249][561]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.30.00:249][561]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-09.30.00:249][561]PIE: New page: PIE session: TopDownExampleMap (Mar 9, 2018, 7:30:00 AM)
+[2018.03.08-09.30.00:249][561]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.03.08-09.30.00:269][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019362s)
+[2018.03.08-09.30.00:271][561]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.08-09.30.00:271][561]LogPlayLevel: PIE: World Init took: (0.002293s)
+[2018.03.08-09.30.00:272][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.022107s)
+[2018.03.08-09.30.00:330][561]LogInit: XAudio2 using 'Speakers (USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-09.30.00:337][561]LogInit: FAudioDevice initialized.
+[2018.03.08-09.30.00:366][561]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.03.08-09.30.00:369][561]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.03.08-20.30.00
+[2018.03.08-09.30.00:370][561]LogWorld: Bringing up level for play took: 0.003245
+[2018.03.08-09.30.00:383][561]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.16
+[2018.03.08-09.30.00:383][561]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.30.35:045][710]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.30.35:085][710]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.30.50:707][131]BlueprintLog: New page: Compile TopDownCharacter
+[2018.03.08-09.30.52:619][302]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-09.30.52:653][302]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.30.52:653][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-09.30.52:653][302]PIE: New page: PIE session: TopDownExampleMap (Mar 9, 2018, 7:30:52 AM)
+[2018.03.08-09.30.52:653][302]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.03.08-09.30.52:672][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018508s)
+[2018.03.08-09.30.52:673][302]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.08-09.30.52:673][302]LogPlayLevel: PIE: World Init took: (0.001105s)
+[2018.03.08-09.30.52:673][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.020055s)
+[2018.03.08-09.30.52:699][302]LogInit: XAudio2 using 'Speakers (USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-09.30.52:706][302]LogInit: FAudioDevice initialized.
+[2018.03.08-09.30.52:738][302]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.03.08-09.30.52:741][302]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.03.08-20.30.52
+[2018.03.08-09.30.52:741][302]LogWorld: Bringing up level for play took: 0.003232
+[2018.03.08-09.30.52:743][302]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.52
+[2018.03.08-09.30.52:743][302]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.30.56:260][714]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.30.56:297][714]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.30.57:606][853]LogEditorTransaction: Undo Create Pin Link
+[2018.03.08-09.30.57:720][853]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2018.03.08-09.30.58:342][923]LogEditorTransaction: Undo Delete current selection
+[2018.03.08-09.30.58:454][923]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2018.03.08-09.31.02:531][393]LogSavePackage: Save=58.62ms
+[2018.03.08-09.31.02:531][393]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/TopDownCharacterB0E3916243E40A57A824CCA3FCDE1870.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2018.03.08-09.31.02:544][393]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2018.03.08-09.34.22:062][313]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/Sword_And_Shield_Slash.sword_and_shield_slash
+[2018.03.08-09.34.22:062][313]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/Sword_And_Shield_Slash.sword_and_shield_slash) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.34.23:893][313]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\veeki\Downloads\Sword And Shield Slash.fbx)
+[2018.03.08-09.34.23:929][313]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.03.08-09.34.23:929][313]LogFbx: ItemName: Model, ItemCount : 69
+[2018.03.08-09.34.23:929][313]LogFbx: ItemName: NodeAttribute, ItemCount : 67
+[2018.03.08-09.34.23:929][313]LogFbx: ItemName: Geometry, ItemCount : 2
+[2018.03.08-09.34.23:929][313]LogFbx: ItemName: Material, ItemCount : 2
+[2018.03.08-09.34.23:929][313]LogFbx: ItemName: Pose, ItemCount : 2
+[2018.03.08-09.34.23:929][313]LogFbx: ItemName: Deformer, ItemCount : 106
+[2018.03.08-09.34.23:929][313]LogFbx: ItemName: AnimationStack, ItemCount : 2
+[2018.03.08-09.34.23:929][313]LogFbx: ItemName: AnimationLayer, ItemCount : 2
+[2018.03.08-09.34.23:930][313]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2018.03.08-09.34.23:930][313]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2018.03.08-09.34.23:942][313]LogFbx: Loading FBX Scene from C:\Users\veeki\Downloads\Sword And Shield Slash.fbx
+[2018.03.08-09.34.23:995][313]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.08-09.34.28:711][313]LogFbx: Loading FBX Scene from C:\Users\veeki\Downloads\Sword And Shield Slash.fbx
+[2018.03.08-09.34.28:777][313]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.08-09.34.28:782][313]LogFbx: =================================================
+[2018.03.08-09.34.28:782][313]LogFbx: Dumping Node START [Alpha_Surface] 
+[2018.03.08-09.34.28:782][313]LogFbx: 	Total Deformer Count 553959264.
+[2018.03.08-09.34.28:782][313]LogFbx: 		[Node 1] Skin Alpha_Surface (Type Skin).
+[2018.03.08-09.34.28:782][313]LogFbx: =================================================
+[2018.03.08-09.34.28:782][313]LogFbx: 	Attribute (Alpha_Surface) Type (4).
+[2018.03.08-09.34.28:782][313]LogFbx: 		[Node Attribute Child 1] Alpha_Surface (Type Mesh).
+[2018.03.08-09.34.28:782][313]LogFbx: Dumping Node END [Alpha_Surface]
+[2018.03.08-09.34.28:782][313]LogFbx: =================================================
+[2018.03.08-09.34.28:782][313]LogFbx: Dumping Node START [Alpha_Joints] 
+[2018.03.08-09.34.28:782][313]LogFbx: 	Total Deformer Count 553959264.
+[2018.03.08-09.34.28:782][313]LogFbx: 		[Node 1] Skin Alpha_Joints (Type Skin).
+[2018.03.08-09.34.28:782][313]LogFbx: =================================================
+[2018.03.08-09.34.28:782][313]LogFbx: 	Attribute (Alpha_Joints) Type (4).
+[2018.03.08-09.34.28:782][313]LogFbx: 		[Node Attribute Child 1] Alpha_Joints (Type Mesh).
+[2018.03.08-09.34.28:782][313]LogFbx: Dumping Node END [Alpha_Joints]
+[2018.03.08-09.34.28:783][313]LogFbx: =================================================
+[2018.03.08-09.34.28:783][313]LogFbx: Dumping Node START [Alpha_Surface] 
+[2018.03.08-09.34.28:783][313]LogFbx: 	Total Deformer Count 553959264.
+[2018.03.08-09.34.28:783][313]LogFbx: 		[Node 1] Skin Alpha_Surface (Type Skin).
+[2018.03.08-09.34.28:783][313]LogFbx: =================================================
+[2018.03.08-09.34.28:783][313]LogFbx: 	Attribute (Alpha_Surface) Type (4).
+[2018.03.08-09.34.28:783][313]LogFbx: 		[Node Attribute Child 1] Alpha_Surface (Type Mesh).
+[2018.03.08-09.34.28:783][313]LogFbx: Dumping Node END [Alpha_Surface]
+[2018.03.08-09.34.28:783][313]LogFbx: =================================================
+[2018.03.08-09.34.28:783][313]LogFbx: Dumping Node START [Alpha_Joints] 
+[2018.03.08-09.34.28:783][313]LogFbx: 	Total Deformer Count 553959264.
+[2018.03.08-09.34.28:784][313]LogFbx: 		[Node 1] Skin Alpha_Joints (Type Skin).
+[2018.03.08-09.34.28:784][313]LogFbx: =================================================
+[2018.03.08-09.34.28:784][313]LogFbx: 	Attribute (Alpha_Joints) Type (4).
+[2018.03.08-09.34.28:784][313]LogFbx: 		[Node Attribute Child 1] Alpha_Joints (Type Mesh).
+[2018.03.08-09.34.28:784][313]LogFbx: Dumping Node END [Alpha_Joints]
+[2018.03.08-09.34.28:806][313]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.03.08-09.34.28:806][313]FBXImport: Warning: Same name but different class: 'sword_and_shield_slash' already exists 
+[2018.03.08-09.34.28:806][313]FBXImport: Error: Import failed. 
+[2018.03.08-09.34.30:145][313]LogAssetTools: Warning: Failed to import 'C:\Users\veeki\Downloads\Sword And Shield Slash.fbx'. Failed to create asset '/Game/TopDownBP/Character/Knight_Character/Animations/Sword_And_Shield_Slash'.
+Please see Output Log for details.
+[2018.03.08-09.34.36:242][911]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_slash__3_.sword_and_shield_slash__3_
+[2018.03.08-09.34.36:242][911]LogAnimationCompression: Recompressing (AnimSequence /Game/TopDownBP/Character/Knight_Character/Animations/sword_and_shield_slash__3_.sword_and_shield_slash__3_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.08-09.34.48:567][226]BlueprintLog: New page: Compile Knight_AnimBP
+[2018.03.08-09.34.50:211][391]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-09.34.50:234][391]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.34.50:234][391]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.08-09.34.50:262][391]LogPlayLevel: [PlayLevel] Compiling TopDownCharacter before play...
+[2018.03.08-09.34.50:725][391]LogPlayLevel: PlayLevel: Blueprint regeneration took 491 ms (1 blueprints)
+[2018.03.08-09.34.50:725][391]PIE: New page: PIE session: TopDownExampleMap (Mar 9, 2018, 7:34:50 AM)
+[2018.03.08-09.34.50:725][391]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.03.08-09.34.50:748][391]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022390s)
+[2018.03.08-09.34.50:749][391]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.08-09.34.50:749][391]LogPlayLevel: PIE: World Init took: (0.001223s)
+[2018.03.08-09.34.50:750][391]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.024049s)
+[2018.03.08-09.34.50:784][391]LogInit: XAudio2 using 'Speakers (USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-09.34.50:791][391]LogInit: FAudioDevice initialized.
+[2018.03.08-09.34.50:830][391]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.03.08-09.34.50:833][391]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.03.08-20.34.50
+[2018.03.08-09.34.50:833][391]LogWorld: Bringing up level for play took: 0.002993
+[2018.03.08-09.34.50:834][391]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.612
+[2018.03.08-09.34.50:835][391]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.35.01:464][630]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.35.01:502][630]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.35.04:973][992]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.Actor_7.DebugSkelMeshComponent_19) Already registered. Aborting.
+[2018.03.08-09.35.05:014][992]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_32:PersistentLevel.Actor_7.DebugSkelMeshComponent_19) - call TermArticulated first.
+[2018.03.08-09.35.05:418][992]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.08-09.35.08:973][216]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.Actor_8.DebugSkelMeshComponent_22) Already registered. Aborting.
+[2018.03.08-09.35.09:016][216]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_35:PersistentLevel.Actor_8.DebugSkelMeshComponent_22) - call TermArticulated first.
+[2018.03.08-09.35.09:392][216]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.08-09.35.11:530][363]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.Actor_9.DebugSkelMeshComponent_25) Already registered. Aborting.
+[2018.03.08-09.35.11:568][363]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_38:PersistentLevel.Actor_9.DebugSkelMeshComponent_25) - call TermArticulated first.
+[2018.03.08-09.35.11:930][363]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.08-09.35.22:574][263]BlueprintLog: New page: Compile TopDownCharacter
+[2018.03.08-09.35.25:236][504]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-09.35.25:273][504]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.35.25:274][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-09.35.25:274][504]PIE: New page: PIE session: TopDownExampleMap (Mar 9, 2018, 7:35:25 AM)
+[2018.03.08-09.35.25:274][504]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.03.08-09.35.25:296][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021654s)
+[2018.03.08-09.35.25:297][504]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.08-09.35.25:297][504]LogPlayLevel: PIE: World Init took: (0.001068s)
+[2018.03.08-09.35.25:298][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.023243s)
+[2018.03.08-09.35.25:328][504]LogInit: XAudio2 using 'Speakers (USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-09.35.25:337][504]LogInit: FAudioDevice initialized.
+[2018.03.08-09.35.25:369][504]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.03.08-09.35.25:372][504]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.03.08-20.35.25
+[2018.03.08-09.35.25:372][504]LogWorld: Bringing up level for play took: 0.003153
+[2018.03.08-09.35.25:374][504]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.849
+[2018.03.08-09.35.25:374][504]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.35.35:006][607]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.35.35:050][607]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.37.37:016][ 82]BlueprintLog: New page: Compile TopDownCharacter
+[2018.03.08-09.37.39:483][301]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-09.37.39:522][301]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.37.39:522][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-09.37.39:523][301]PIE: New page: PIE session: TopDownExampleMap (Mar 9, 2018, 7:37:39 AM)
+[2018.03.08-09.37.39:523][301]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.03.08-09.37.39:545][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022305s)
+[2018.03.08-09.37.39:546][301]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.08-09.37.39:546][301]LogPlayLevel: PIE: World Init took: (0.001332s)
+[2018.03.08-09.37.39:547][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.024144s)
+[2018.03.08-09.37.39:585][301]LogInit: XAudio2 using 'Speakers (USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-09.37.39:594][301]LogInit: FAudioDevice initialized.
+[2018.03.08-09.37.39:629][301]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.03.08-09.37.39:634][301]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.03.08-20.37.39
+[2018.03.08-09.37.39:635][301]LogWorld: Bringing up level for play took: 0.005473
+[2018.03.08-09.37.39:636][301]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.587
+[2018.03.08-09.37.39:637][301]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.37.57:936][399]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.37.57:988][399]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.38.09:029][637]BlueprintLog: New page: Compile TopDownCharacter
+[2018.03.08-09.38.11:990][862]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-09.38.12:042][862]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.38.12:042][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-09.38.12:042][862]PIE: New page: PIE session: TopDownExampleMap (Mar 9, 2018, 7:38:12 AM)
+[2018.03.08-09.38.12:042][862]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.03.08-09.38.12:060][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018701s)
+[2018.03.08-09.38.12:062][862]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.08-09.38.12:062][862]LogPlayLevel: PIE: World Init took: (0.001499s)
+[2018.03.08-09.38.12:063][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.020621s)
+[2018.03.08-09.38.12:109][862]LogInit: XAudio2 using 'Speakers (USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-09.38.12:120][862]LogInit: FAudioDevice initialized.
+[2018.03.08-09.38.12:156][862]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.03.08-09.38.12:161][862]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.03.08-20.38.12
+[2018.03.08-09.38.12:161][862]LogWorld: Bringing up level for play took: 0.004326
+[2018.03.08-09.38.12:163][862]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.06
+[2018.03.08-09.38.12:163][862]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.38.18:189][547]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.38.18:230][547]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.39.04:998][168]BlueprintLog: New page: Compile TopDownCharacter
+[2018.03.08-09.39.10:302][345]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-09.39.10:345][345]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.39.10:346][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-09.39.10:346][345]PIE: New page: PIE session: TopDownExampleMap (Mar 9, 2018, 7:39:10 AM)
+[2018.03.08-09.39.10:346][345]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.03.08-09.39.10:365][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019019s)
+[2018.03.08-09.39.10:366][345]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.08-09.39.10:366][345]LogPlayLevel: PIE: World Init took: (0.001091s)
+[2018.03.08-09.39.10:366][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.020615s)
+[2018.03.08-09.39.10:398][345]LogInit: XAudio2 using 'Speakers (USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-09.39.10:408][345]LogInit: FAudioDevice initialized.
+[2018.03.08-09.39.10:443][345]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.03.08-09.39.10:446][345]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.03.08-20.39.10
+[2018.03.08-09.39.10:446][345]LogWorld: Bringing up level for play took: 0.003101
+[2018.03.08-09.39.10:448][345]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.225
+[2018.03.08-09.39.10:448][345]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.39.16:873][ 65]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.39.16:912][ 65]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.39.18:482][237]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-09.39.18:505][237]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.39.18:505][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-09.39.18:505][237]PIE: New page: PIE session: TopDownExampleMap (Mar 9, 2018, 7:39:18 AM)
+[2018.03.08-09.39.18:506][237]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.03.08-09.39.18:524][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018568s)
+[2018.03.08-09.39.18:525][237]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.08-09.39.18:525][237]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2018.03.08-09.39.18:526][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.020051s)
+[2018.03.08-09.39.18:561][237]LogInit: XAudio2 using 'Speakers (USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-09.39.18:571][237]LogInit: FAudioDevice initialized.
+[2018.03.08-09.39.18:604][237]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.03.08-09.39.18:608][237]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.03.08-20.39.18
+[2018.03.08-09.39.18:609][237]LogWorld: Bringing up level for play took: 0.003872
+[2018.03.08-09.39.18:610][237]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.388
+[2018.03.08-09.39.18:611][237]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.39.28:606][357]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.39.28:646][357]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.40.05:907][565]LogSavePackage: Save=257.50ms
+[2018.03.08-09.40.05:907][565]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/TopDownExampleMap_Auto3B92C306D44D63121DECF4481041B48C1.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto3.umap'
+[2018.03.08-09.40.05:912][565]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto3.umap
+[2018.03.08-09.40.05:916][565]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.334
+[2018.03.08-09.40.05:916][565]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.334
+[2018.03.08-09.40.05:922][565]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Character/Knight_Character/Knight_AnimBP] ([1] browsable assets)...
+[2018.03.08-09.40.05:939][565]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/TopDownBP/Character/Knight_Character/Knight_AnimBP.Knight_AnimBP]
+[2018.03.08-09.40.05:939][565]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Character/Knight_Character/Knight_AnimBP]
+[2018.03.08-09.40.06:048][565]LogSavePackage: Save=94.26ms
+[2018.03.08-09.40.06:048][565]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Knight_AnimBP_Auto39A0EF9AC4A849AEB6C1EC6B4B0F1B2D9.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Character/Knight_Character/Knight_AnimBP_Auto3.uasset'
+[2018.03.08-09.40.06:055][565]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Character/Knight_Character/Knight_AnimBP_Auto3.uasset
+[2018.03.08-09.40.06:057][565]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownCharacter] ([1] browsable assets)...
+[2018.03.08-09.40.06:075][565]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter]
+[2018.03.08-09.40.06:075][565]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownCharacter]
+[2018.03.08-09.40.06:202][565]LogSavePackage: Save=76.46ms
+[2018.03.08-09.40.06:202][565]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/TopDownCharacter_Auto38775B6CD4A0B18785CDD959E929F9DF8.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownCharacter_Auto3.uasset'
+[2018.03.08-09.40.06:208][565]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownCharacter_Auto3.uasset
+[2018.03.08-09.40.06:208][565]LogFileHelpers: Auto-saving content packages took 0.288
+[2018.03.08-09.42.58:035][945]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.Actor_10.DebugSkelMeshComponent_28) Already registered. Aborting.
+[2018.03.08-09.42.58:073][945]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_41:PersistentLevel.Actor_10.DebugSkelMeshComponent_28) - call TermArticulated first.
+[2018.03.08-09.42.58:479][945]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.08-09.43.23:540][436]LogContentBrowser: Verbose: The majority of assets in the view are of type: BlendSpace
+[2018.03.08-09.43.39:816][289]BlueprintLog: New page: Compile Knight_AnimBP
+[2018.03.08-09.44.36:527][199]BlueprintLog: New page: Compile Knight_AnimBP
+[2018.03.08-09.44.39:362][498]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.Actor_11.DebugSkelMeshComponent_31) Already registered. Aborting.
+[2018.03.08-09.44.39:430][498]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_44:PersistentLevel.Actor_11.DebugSkelMeshComponent_31) - call TermArticulated first.
+[2018.03.08-09.44.39:779][498]LogRenderer: Reallocating scene render targets to support 964x672 Format 10 NumSamples 1 (Frame:1).
+[2018.03.08-09.45.33:415][805]BlueprintLog: New page: Compile Knight_AnimBP
+[2018.03.08-09.45.39:548][451]BlueprintLog: New page: Compile Knight_AnimBP
+[2018.03.08-09.46.21:350][770]BlueprintLog: New page: Compile Knight_AnimBP
+[2018.03.08-09.46.38:300][567]LogSavePackage: Save=122.28ms
+[2018.03.08-09.46.38:300][567]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Knight_AnimBPB2F3564D4631393BC0CAA0BF4C883725.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Character/Knight_Character/Knight_AnimBP.uasset'
+[2018.03.08-09.46.38:314][567]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Character/Knight_Character/Knight_AnimBP.uasset
+[2018.03.08-09.47.51:741][973]BlueprintLog: New page: Compile TopDownCharacter
+[2018.03.08-09.48.07:358][937]BlueprintLog: New page: Compile TopDownCharacter
+[2018.03.08-09.48.14:282][701]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.08-09.48.14:321][701]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.48.14:321][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.08-09.48.14:321][701]PIE: New page: PIE session: TopDownExampleMap (Mar 9, 2018, 7:48:14 AM)
+[2018.03.08-09.48.14:321][701]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.03.08-09.48.14:344][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022262s)
+[2018.03.08-09.48.14:344][701]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.03.08-09.48.14:345][701]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2018.03.08-09.48.14:345][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.023677s)
+[2018.03.08-09.48.14:376][701]LogInit: XAudio2 using 'Speakers (USB  AUDIO  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.08-09.48.14:386][701]LogInit: FAudioDevice initialized.
+[2018.03.08-09.48.14:421][701]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.03.08-09.48.14:425][701]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.03.08-20.48.14
+[2018.03.08-09.48.14:425][701]LogWorld: Bringing up level for play took: 0.003202
+[2018.03.08-09.48.14:427][701]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.204
+[2018.03.08-09.48.14:427][701]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.48.22:298][605]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.48.22:338][605]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.03.08-09.50.15:784][117]LogSavePackage: Save=337.21ms
+[2018.03.08-09.50.15:784][117]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/TopDownExampleMap_Auto46527D4DC4911188D0D4EE1972195C85D.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto4.umap'
+[2018.03.08-09.50.15:788][117]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto4.umap
+[2018.03.08-09.50.15:794][117]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 1.026
+[2018.03.08-09.50.15:794][117]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.026
+[2018.03.08-09.50.15:799][117]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownCharacter] ([1] browsable assets)...
+[2018.03.08-09.50.15:820][117]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter]
+[2018.03.08-09.50.15:820][117]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownCharacter]
+[2018.03.08-09.50.16:185][117]LogSavePackage: Save=82.81ms
+[2018.03.08-09.50.16:185][117]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/TopDownCharacter_Auto4989E08F94F16639AF0F5FD8429F70122.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownCharacter_Auto4.uasset'
+[2018.03.08-09.50.16:190][117]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownCharacter_Auto4.uasset
+[2018.03.08-09.50.16:190][117]LogFileHelpers: Auto-saving content packages took 0.394
+[2018.03.08-09.50.47:522][ 25]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_45:PersistentLevel.Actor_12.DebugSkelMeshComponent_32) Already registered. Aborting.
+[2018.03.08-09.50.47:576][ 25]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_45:PersistentLevel.Actor_12.DebugSkelMeshComponent_32) - call TermArticulated first.
+[2018.03.08-09.50.48:767][ 25]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.08-09.50.52:283][226]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.Actor_13.DebugSkelMeshComponent_35) Already registered. Aborting.
+[2018.03.08-09.50.52:332][226]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_48:PersistentLevel.Actor_13.DebugSkelMeshComponent_35) - call TermArticulated first.
+[2018.03.08-09.50.52:770][226]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.08-09.50.56:072][403]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.Actor_14.DebugSkelMeshComponent_38) Already registered. Aborting.
+[2018.03.08-09.50.56:119][403]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_51:PersistentLevel.Actor_14.DebugSkelMeshComponent_38) - call TermArticulated first.
+[2018.03.08-09.50.56:612][403]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.08-09.50.59:190][533]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.Actor_15.DebugSkelMeshComponent_41) Already registered. Aborting.
+[2018.03.08-09.50.59:236][533]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_54:PersistentLevel.Actor_15.DebugSkelMeshComponent_41) - call TermArticulated first.
+[2018.03.08-09.50.59:616][533]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.08-09.51.09:701][199]LogSavePackage: Save=226.94ms
+[2018.03.08-09.51.09:701][199]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/TopDownExampleMap1B2006F040E43E298805378259B8953D.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.03.08-09.51.09:712][199]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.03.08-09.51.09:765][199]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.671
+[2018.03.08-09.51.09:834][199]LogSavePackage: Save=57.32ms
+[2018.03.08-09.51.09:834][199]LogSavePackage: Moving '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/TopDownCharacter9201EB184FC16BB84DD26895BEE31E6D.tmp' to '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2018.03.08-09.51.09:845][199]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2018.03.08-09.51.12:902][416]Cmd: QUIT_EDITOR
+[2018.03.08-09.51.13:797][416]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.08-09.51.13:889][416]LogExit: Preparing to exit.
+[2018.03.08-09.51.15:423][416]LogDirectoryWatcher: A directory notification for 'C:/Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/' was aborted.
+[2018.03.08-09.51.15:824][416]LogExit: Editor shut down
+[2018.03.08-09.51.15:858][416]LogExit: Transaction tracking system shut down
+[2018.03.08-09.51.16:254][416]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.03.08-09.51.16:254][416]LogDirectoryWatcher: A directory notification for '../../../../../../Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/' was aborted.
+[2018.03.08-09.51.16:254][416]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.03.08-09.51.16:254][416]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.03.08-09.51.16:254][416]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.03.08-09.51.16:254][416]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.03.08-09.51.16:254][416]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.03.08-09.51.18:500][416]LogExit: Object subsystem successfully closed.
+[2018.03.08-09.51.18:966][416]LogD3D11RHI: Shutdown
+[2018.03.08-09.51.18:967][416]LogD3D11RHI: CleanupD3DDevice
+[2018.03.08-09.51.19:297][416]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.03.08-09.51.23:655][416]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (560)
+[2018.03.08-09.51.23:705][416]LogModuleManager: Shutting down and abandoning module BlueprintGraph (558)
+[2018.03.08-09.51.23:705][416]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (556)
+[2018.03.08-09.51.23:706][416]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (554)
+[2018.03.08-09.51.23:706][416]LogModuleManager: Shutting down and abandoning module SkeletonEditor (552)
+[2018.03.08-09.51.23:706][416]LogModuleManager: Shutting down and abandoning module AnimationEditor (550)
+[2018.03.08-09.51.23:706][416]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.03.08-09.51.23:706][416]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.03.08-09.51.23:706][416]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.03.08-09.51.23:801][416]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.03.08-09.51.23:809][416]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.03.08-09.51.23:809][416]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.03.08-09.51.23:809][416]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.03.08-09.51.23:947][416]LogDirectoryWatcher: A directory notification for 'C:/Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/Collections/' was aborted.
+[2018.03.08-09.51.23:947][416]LogDirectoryWatcher: A directory notification for 'C:/Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Content/Developers/veeking/Collections/' was aborted.
+[2018.03.08-09.51.23:947][416]LogDirectoryWatcher: A directory notification for 'C:/Users/veeki/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_MASTER_Copy/Saved/Collections/' was aborted.
+[2018.03.08-09.51.23:947][416]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.03.08-09.51.23:980][416]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.03.08-09.51.24:006][416]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.03.08-09.51.24:216][416]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.03.08-09.51.24:238][416]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.03.08-09.51.24:238][416]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.03.08-09.51.24:239][416]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.03.08-09.51.24:249][416]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.03.08-09.51.24:249][416]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.03.08-09.51.24:280][416]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.03.08-09.51.24:280][416]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.03.08-09.51.24:301][416]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.03.08-09.51.24:301][416]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.03.08-09.51.24:341][416]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.03.08-09.51.24:402][416]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.03.08-09.51.24:751][416]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.03.08-09.51.24:751][416]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.03.08-09.51.24:751][416]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.03.08-09.51.24:751][416]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.03.08-09.51.24:751][416]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.03.08-09.51.24:751][416]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.03.08-09.51.24:785][416]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.03.08-09.51.24:785][416]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.03.08-09.51.24:785][416]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.03.08-09.51.24:785][416]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.03.08-09.51.24:785][416]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.03.08-09.51.24:785][416]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.03.08-09.51.24:874][416]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.03.08-09.51.24:905][416]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.03.08-09.51.24:905][416]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.03.08-09.51.24:905][416]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.03.08-09.51.24:905][416]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.03.08-09.51.24:975][416]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.03.08-09.51.25:262][416]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.03.08-09.51.25:270][416]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.03.08-09.51.25:509][416]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.03.08-09.51.25:678][416]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.03.08-09.51.25:792][416]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.03.08-09.51.25:843][416]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.03.08-09.51.25:843][416]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.03.08-09.51.25:843][416]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.03.08-09.51.26:302][416]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.03.08-09.51.26:302][416]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.03.08-09.51.26:303][416]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.03.08-09.51.26:303][416]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.03.08-09.51.26:445][416]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.03.08-09.51.26:719][416]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.03.08-09.51.26:764][416]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.03.08-09.51.27:111][416]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.03.08-09.51.27:174][416]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.03.08-09.51.27:199][416]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.03.08-09.51.27:212][416]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.03.08-09.51.27:212][416]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.03.08-09.51.27:244][416]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.03.08-09.51.27:305][416]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.03.08-09.51.27:357][416]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.03.08-09.51.27:393][416]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.03.08-09.51.27:393][416]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.03.08-09.51.27:411][416]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.03.08-09.51.27:411][416]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.03.08-09.51.27:448][416]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.03.08-09.51.27:531][416]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.03.08-09.51.27:569][416]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.03.08-09.51.27:593][416]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.03.08-09.51.27:621][416]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.03.08-09.51.27:771][416]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.03.08-09.51.27:892][416]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.03.08-09.51.27:909][416]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.03.08-09.51.28:061][416]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.03.08-09.51.28:061][416]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.03.08-09.51.28:109][416]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.03.08-09.51.28:110][416]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.03.08-09.51.28:148][416]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.03.08-09.51.28:148][416]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.03.08-09.51.28:148][416]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.03.08-09.51.28:232][416]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.03.08-09.51.28:297][416]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.03.08-09.51.28:297][416]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.03.08-09.51.28:325][416]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.03.08-09.51.28:632][416]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.03.08-09.51.28:669][416]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.03.08-09.51.28:696][416]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.03.08-09.51.28:696][416]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.03.08-09.51.28:697][416]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.03.08-09.51.28:697][416]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.03.08-09.51.28:697][416]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.03.08-09.51.28:697][416]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.03.08-09.51.28:697][416]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.03.08-09.51.28:697][416]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.03.08-09.51.28:697][416]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.03.08-09.51.28:697][416]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.03.08-09.51.28:781][416]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.03.08-09.51.28:783][416]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.03.08-09.51.28:783][416]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.03.08-09.51.28:783][416]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.03.08-09.51.28:993][416]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.03.08-09.51.29:072][416]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.03.08-09.51.29:072][416]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.03.08-09.51.29:072][416]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.03.08-09.51.29:072][416]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.03.08-09.51.29:072][416]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.03.08-09.51.29:072][416]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.03.08-09.51.29:072][416]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.03.08-09.51.29:073][416]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.03.08-09.51.29:073][416]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.03.08-09.51.29:073][416]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.03.08-09.51.29:073][416]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.03.08-09.51.29:204][416]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.03.08-09.51.29:222][416]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.03.08-09.51.29:222][416]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.03.08-09.51.29:222][416]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.03.08-09.51.29:242][416]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.03.08-09.51.29:242][416]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.03.08-09.51.29:242][416]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.03.08-09.51.29:242][416]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.03.08-09.51.29:242][416]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.03.08-09.51.29:424][416]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.03.08-09.51.29:446][416]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.03.08-09.51.29:462][416]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.03.08-09.51.29:462][416]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.03.08-09.51.29:462][416]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.03.08-09.51.29:810][416]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.03.08-09.51.29:849][416]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.03.08-09.51.29:872][416]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.03.08-09.51.29:882][416]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.03.08-09.51.29:882][416]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.03.08-09.51.29:882][416]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.03.08-09.51.29:882][416]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.03.08-09.51.29:916][416]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.03.08-09.51.29:916][416]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.03.08-09.51.29:962][416]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.03.08-09.51.29:994][416]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.03.08-09.51.30:008][416]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.03.08-09.51.30:037][416]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.03.08-09.51.30:056][416]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.03.08-09.51.30:061][416]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.03.08-09.51.30:061][416]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.03.08-09.51.30:061][416]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.03.08-09.51.30:061][416]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.03.08-09.51.30:061][416]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.03.08-09.51.30:061][416]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.03.08-09.51.30:161][416]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.03.08-09.51.30:275][416]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.03.08-09.51.30:287][416]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.03.08-09.51.30:299][416]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.03.08-09.51.30:299][416]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.03.08-09.51.30:318][416]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.03.08-09.51.30:318][416]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.03.08-09.51.30:321][416]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.03.08-09.51.30:321][416]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.03.08-09.51.30:321][416]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.03.08-09.51.30:329][416]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.03.08-09.51.30:376][416]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.03.08-09.51.30:376][416]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.03.08-09.51.30:376][416]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.03.08-09.51.30:376][416]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.03.08-09.51.30:394][416]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.03.08-09.51.30:395][416]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.03.08-09.51.30:401][416]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.03.08-09.51.30:401][416]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.03.08-09.51.30:401][416]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.03.08-09.51.30:423][416]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.03.08-09.51.30:435][416]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.03.08-09.51.30:435][416]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.03.08-09.51.30:466][416]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.03.08-09.51.30:466][416]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.03.08-09.51.30:493][416]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.03.08-09.51.30:594][416]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.03.08-09.51.30:594][416]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.03.08-09.51.30:623][416]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.03.08-09.51.30:651][416]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.03.08-09.51.30:651][416]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.03.08-09.51.30:674][416]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.03.08-09.51.30:674][416]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.03.08-09.51.30:759][416]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.03.08-09.51.30:759][416]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.03.08-09.51.30:774][416]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.03.08-09.51.30:774][416]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.03.08-09.51.30:774][416]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.03.08-09.51.30:774][416]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.03.08-09.51.30:774][416]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.03.08-09.51.30:786][416]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.03.08-09.51.30:793][416]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.03.08-09.51.30:793][416]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.03.08-09.51.30:793][416]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.03.08-09.51.30:804][416]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.03.08-09.51.30:804][416]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.03.08-09.51.30:826][416]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.03.08-09.51.30:829][416]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.03.08-09.51.30:841][416]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.03.08-09.51.30:848][416]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.03.08-09.51.30:881][416]LogDerivedDataCache: Shutdown
+[2018.03.08-09.51.30:881][416]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.03.08-09.51.30:882][416]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.03.08-09.51.30:898][416]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.03.08-09.51.30:910][416]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.03.08-09.51.30:938][416]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.03.08-09.51.30:952][416]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.03.08-09.51.30:964][416]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.03.08-09.51.30:964][416]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.03.08-09.51.30:964][416]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.03.08-09.51.30:964][416]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.03.08-09.51.31:017][416]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.03.08-09.51.31:017][416]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.03.08-09.51.31:017][416]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.03.08-09.51.31:017][416]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.03.08-09.51.31:017][416]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.03.08-09.51.31:017][416]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.03.08-09.51.31:017][416]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.03.08-09.51.31:017][416]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.03.08-09.51.31:017][416]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.03.08-09.51.31:017][416]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.03.08-09.51.31:017][416]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.03.08-09.51.31:018][416]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.03.08-09.51.31:018][416]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.03.08-09.51.31:018][416]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.03.08-09.51.31:018][416]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.03.08-09.51.31:018][416]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.03.08-09.51.31:018][416]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.03.08-09.51.31:018][416]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.03.08-09.51.31:018][416]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.03.08-09.51.31:018][416]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.03.08-09.51.31:018][416]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.03.08-09.51.31:018][416]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.03.08-09.51.31:018][416]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.03.08-09.51.31:018][416]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.03.08-09.51.31:024][416]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.03.08-09.51.31:037][416]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.03.08-09.51.31:046][416]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.03.08-09.51.31:047][416]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.03.08-09.51.31:064][416]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.03.08-09.51.31:077][416]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.03.08-09.51.31:081][416]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.03.08-09.51.31:081][416]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.03.08-09.51.31:081][416]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.03.08-09.51.31:081][416]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.03.08-09.51.31:082][416]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.03.08-09.51.31:082][416]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.03.08-09.51.31:101][416]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.03.08-09.51.31:101][416]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.03.08-09.51.31:101][416]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.03.08-09.51.31:101][416]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.03.08-09.51.31:101][416]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.03.08-09.51.31:126][416]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.03.08-09.51.31:160][416]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.03.08-09.51.31:160][416]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.03.08-09.51.31:175][416]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEEEA6D8D-43B4-A05F-13BA-B98D391E40D5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=ab2b434240547fc67253538e9d2cfc95%7C3a3ba9ee5b8446f599c857d02a66ba61%7C647d66b7-4767-40a4-ad9c-2782318efab1&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.08-09.51.31:197][416]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.03.08-09.51.31:217][416]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.03.08-09.51.31:234][416]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.03.08-09.51.31:251][416]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.03.08-09.51.31:279][416]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.03.08-09.51.31:284][416]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.03.08-09.51.31:284][416]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.03.08-09.51.31:284][416]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.03.08-09.51.31:301][416]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.03.08-09.51.31:318][416]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.03.08-09.51.31:318][416]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.03.08-09.51.31:350][416]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.03.08-09.51.31:350][416]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.03.08-09.51.31:350][416]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.03.08-09.51.31:350][416]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.03.08-09.51.31:378][416]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.03.08-09.51.31:378][416]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.03.08-09.51.31:413][416]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.03.08-09.51.31:413][416]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.03.08-09.51.31:488][416]LogExit: Exiting.
+[2018.03.08-09.51.31:509][416]Log file closed, 03/08/18 20:51:31
