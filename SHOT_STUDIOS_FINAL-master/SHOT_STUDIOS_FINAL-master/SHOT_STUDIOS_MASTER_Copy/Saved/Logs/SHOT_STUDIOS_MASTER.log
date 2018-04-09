@@ -1,4 +1,4 @@
-﻿Log file open, 04/09/18 11:30:30
+﻿Log file open, 04/09/18 11:35:43
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +7,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: SHOT_STUDIOS_MASTER
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(1121734006) SRandInit(1121734006).
+LogInit: Display: RandInit(-2132676053) SRandInit(-2132676053).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.171205
+LogStats: Stats thread started at 0.169712
 LogD3D11RHI: Aftermath initialized
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin LightPropagationVolume
@@ -75,7 +75,95 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Binaries/Win64/UE4Editor-SHOT_STUDIOS_MASTER-973.dll (API version 3709383).
+LogModuleManager: Warning: Module file ../../../../../../Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Binaries/Win64/UE4Editor-SHOT_STUDIOS_MASTER-8653.dll is missing. This is likely a stale module that must be recompiled.
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Warning: Incompatible or missing module: UE4Editor-SHOT_STUDIOS_MASTER.dll
+Running C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe SHOT_STUDIOS_MASTER Development Win64 -project="C:/Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/SHOT_STUDIOS_MASTER.uproject" -editorrecompile -progress -NoHotReloadFromIDE
+Performing full C++ include scan (building a new target)
+Creating makefile for SHOT_STUDIOS_MASTER (no existing makefile)
+@progress push 5%
+@progress pop
+Deleting old hot reload file: "C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Binaries\Win64\UE4Editor-SHOT_STUDIOS_MASTER-9707.dll".
+Deleting old hot reload file: "C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Binaries\Win64\UE4Editor-SHOT_STUDIOS_MASTER-9707.pdb".
+Deleting old hot reload file: "C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Binaries\Win64\UE4Editor-SHOT_STUDIOS_MASTER-973.dll".
+Deleting old hot reload file: "C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Binaries\Win64\UE4Editor-SHOT_STUDIOS_MASTER-973.pdb".
+Performing 1 actions (4 in parallel)
+[1/1] Link UE4Editor-SHOT_STUDIOS_MASTER.dll
+   Creating library C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SHOT_STUDIOS_MASTER.suppressed.lib and object C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SHOT_STUDIOS_MASTER.suppressed.exp
+Total build time: 6.96 seconds (Local executor: 0.62 seconds)
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Binaries/Win64/UE4Editor-SHOT_STUDIOS_MASTER.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
@@ -195,115 +283,800 @@ LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.04.09-01.30.33:602][  0]LogInit: Selected Device Profile: [Windows]
-[2018.04.09-01.30.33:602][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.04.09-01.30.33:644][  0]LogInit: Computer: SYD-R102-PC11
-[2018.04.09-01.30.33:644][  0]LogInit: User: vangeles2
-[2018.04.09-01.30.33:644][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.04.09-01.30.33:644][  0]LogInit: High frequency timer resolution =3.328123 MHz
-[2018.04.09-01.30.33:645][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
-[2018.04.09-01.30.33:645][  0]LogMemory: Platform Memory Stats for Windows
-[2018.04.09-01.30.33:645][  0]LogMemory: Process Physical Memory: 273.09 MB used, 273.09 MB peak
-[2018.04.09-01.30.33:645][  0]LogMemory: Process Virtual Memory: 272.02 MB used, 272.02 MB peak
-[2018.04.09-01.30.33:645][  0]LogMemory: Physical Memory: 9098.75 MB used,  23584.36 MB free, 32683.10 MB total
-[2018.04.09-01.30.33:645][  0]LogMemory: Virtual Memory: 680.25 MB used,  23584.36 MB free, 134217728.00 MB total
-[2018.04.09-01.30.33:880][  0]LogInit: Using OS detected language (en-US).
-[2018.04.09-01.30.33:880][  0]LogInit: Using OS detected locale (en-AU).
-[2018.04.09-01.30.33:885][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.04.09-01.30.34:224][  0]LogInit: Setting process to per monitor DPI aware
-[2018.04.09-01.30.34:626][  0]LogD3D11RHI: D3D11 adapters:
-[2018.04.09-01.30.34:666][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
-[2018.04.09-01.30.34:666][  0]LogD3D11RHI:       4060/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2018.04.09-01.30.34:668][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.04.09-01.30.34:668][  0]LogD3D11RHI:       0/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.04.09-01.30.34:668][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.04.09-01.30.34:678][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.04.09-01.30.34:678][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
-[2018.04.09-01.30.34:678][  0]LogWindows: EnumDisplayDevices:
-[2018.04.09-01.30.34:678][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
-[2018.04.09-01.30.34:678][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:0)
-[2018.04.09-01.30.34:678][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
-[2018.04.09-01.30.34:679][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
-[2018.04.09-01.30.34:679][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.04.09-01.30.34:679][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
-[2018.04.09-01.30.34:679][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.04.09-01.30.34:679][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.04.09-01.30.34:679][  0]LogRHI: Texture pool is 2842 MB (70% of 4060 MB)
-[2018.04.09-01.30.34:701][  0]LogD3D11RHI: Async texture creation enabled
-[2018.04.09-01.30.34:714][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2018.04.09-01.30.34:756][  0]LogShaderCompilers: Guid format shader working directory is -88 characters bigger than the processId version (../../../../../../Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Intermediate/Shaders/WorkingDirectory/21664/).
-[2018.04.09-01.30.34:756][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/vangeles2/AppData/Local/Temp/UnrealShaderWorkingDir/1B8674C24619680953C8FBA1CD3345FA/'.
-[2018.04.09-01.30.34:757][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.04.09-01.30.35:823][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.04.09-01.30.35:897][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.04.09-01.30.35:973][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.04.09-01.30.36:050][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.04.09-01.30.36:124][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.04.09-01.30.36:196][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.04.09-01.30.36:272][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.04.09-01.30.36:346][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.04.09-01.30.36:411][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.04.09-01.30.36:492][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.04.09-01.30.36:572][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.04.09-01.30.36:651][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.04.09-01.30.36:730][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.04.09-01.30.36:806][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.04.09-01.30.37:044][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.04.09-01.30.37:044][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.04.09-01.30.37:156][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.04.09-01.30.37:249][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.04.09-01.30.37:419][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.04.09-01.30.37:470][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.04.09-01.30.37:547][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.04.09-01.30.37:634][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.04.09-01.30.37:716][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.04.09-01.30.37:794][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.04.09-01.30.37:794][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.04.09-01.30.38:546][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.04.09-01.30.38:604][  0]LogDerivedDataCache: Loaded boot cache 0.06s 79MB C:/Users/vangeles2/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.04.09-01.30.38:604][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/vangeles2/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2018.04.09-01.30.38:604][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.04.09-01.30.38:604][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.04.09-01.30.38:604][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.04.09-01.30.38:604][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.04.09-01.30.38:619][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.04.09-01.30.38:632][  0]LogDerivedDataCache: Using Local data cache path C:/Users/vangeles2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.04.09-01.30.38:642][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.04.09-01.30.38:642][  0]LogSlate: Using Freetype 2.6.0
-[2018.04.09-01.30.38:644][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.04.09-01.30.38:644][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.04.09-01.30.39:065][  0]LogInit: Selected Device Profile: [Windows]
-[2018.04.09-01.30.39:530][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.04.09-01.30.39:592][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.04.09-01.30.39:592][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.04.09-01.30.39:592][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.04.09-01.30.39:592][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.04.09-01.30.39:592][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.04.09-01.30.39:629][  0]LogNetVersion: SHOT_STUDIOS_MASTER , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2059099905)
-[2018.04.09-01.30.39:842][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
-[2018.04.09-01.30.40:418][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.084412 seconds
-[2018.04.09-01.30.40:423][  0]LogUObjectArray: 35871 objects as part of root set at end of initial load.
-[2018.04.09-01.30.40:423][  0]LogUObjectAllocator: 7363928 out of 0 bytes used by permanent object pool.
-[2018.04.09-01.30.40:423][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.04.09-01.30.40:502][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2018.04.09-01.30.44:087][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.04.09-01.30.44:148][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.04.09-01.30.45:281][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2018.04.09-01.30.45:923][  0]SourceControl: Source control is disabled
-[2018.04.09-01.30.45:923][  0]SourceControl: Source control is disabled
-[2018.04.09-01.30.46:010][  0]SourceControl: Source control is disabled
-[2018.04.09-01.30.46:093][  0]SourceControl: Source control is disabled
-[2018.04.09-01.30.47:363][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.04.09-01.30.47:800][  0]LogOcInput: OculusInput pre-init called
-[2018.04.09-01.30.48:209][  0]LogEngine: Initializing Engine...
-[2018.04.09-01.30.48:214][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.04.09-01.30.48:423][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.04.09-01.30.48:423][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.04.09-01.30.48:625][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.04.09-01.30.48:646][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.04.09-01.30.48:701][  0]LogInit: FAudioDevice initialized.
-[2018.04.09-01.30.48:782][  0]LogDerivedDataCache: Saved boot cache 0.08s 79MB C:/Users/vangeles2/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.04.09-01.30.48:788][  0]LogInit: Texture streaming: Enabled
-[2018.04.09-01.30.48:950][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.04.09-01.30.49:160][  0]LogInit: Transaction tracking system initialized
-[2018.04.09-01.30.49:724][  0]BlueprintLog: New page: Editor Load
+[2018.04.09-01.36.03:311][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.09-01.36.03:311][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.09-01.36.03:325][  0]LogInit: Computer: SYD-R102-PC11
+[2018.04.09-01.36.03:325][  0]LogInit: User: vangeles2
+[2018.04.09-01.36.03:325][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.09-01.36.03:325][  0]LogInit: High frequency timer resolution =3.328123 MHz
+[2018.04.09-01.36.03:326][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.04.09-01.36.03:326][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.09-01.36.03:326][  0]LogMemory: Process Physical Memory: 278.75 MB used, 278.75 MB peak
+[2018.04.09-01.36.03:326][  0]LogMemory: Process Virtual Memory: 273.72 MB used, 273.72 MB peak
+[2018.04.09-01.36.03:326][  0]LogMemory: Physical Memory: 9172.32 MB used,  23510.79 MB free, 32683.10 MB total
+[2018.04.09-01.36.03:326][  0]LogMemory: Virtual Memory: 753.73 MB used,  23510.79 MB free, 134217728.00 MB total
+[2018.04.09-01.36.03:541][  0]LogInit: Using OS detected language (en-US).
+[2018.04.09-01.36.03:541][  0]LogInit: Using OS detected locale (en-AU).
+[2018.04.09-01.36.03:546][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.09-01.36.03:887][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.09-01.36.04:281][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.09-01.36.04:322][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2018.04.09-01.36.04:322][  0]LogD3D11RHI:       4060/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.09-01.36.04:324][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.09-01.36.04:324][  0]LogD3D11RHI:       0/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.09-01.36.04:324][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.09-01.36.04:332][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.09-01.36.04:332][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.09-01.36.04:332][  0]LogWindows: EnumDisplayDevices:
+[2018.04.09-01.36.04:332][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2018.04.09-01.36.04:332][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.04.09-01.36.04:333][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.04.09-01.36.04:333][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.04.09-01.36.04:333][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.09-01.36.04:333][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2018.04.09-01.36.04:333][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.09-01.36.04:333][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.09-01.36.04:333][  0]LogRHI: Texture pool is 2842 MB (70% of 4060 MB)
+[2018.04.09-01.36.04:355][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.09-01.36.04:369][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.04.09-01.36.04:410][  0]LogShaderCompilers: Guid format shader working directory is -88 characters bigger than the processId version (../../../../../../Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Intermediate/Shaders/WorkingDirectory/14476/).
+[2018.04.09-01.36.04:411][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/vangeles2/AppData/Local/Temp/UnrealShaderWorkingDir/138D96044B850D8132A52A900CE2A924/'.
+[2018.04.09-01.36.04:411][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.09-01.36.05:470][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.09-01.36.05:546][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.09-01.36.05:622][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.09-01.36.05:699][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.09-01.36.05:781][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.09-01.36.05:861][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.09-01.36.05:939][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.09-01.36.06:016][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.09-01.36.06:084][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.09-01.36.06:156][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.09-01.36.06:228][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.09-01.36.06:303][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.09-01.36.06:380][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.09-01.36.06:457][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.09-01.36.06:604][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.09-01.36.06:604][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.09-01.36.06:682][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.09-01.36.06:746][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.09-01.36.06:868][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.09-01.36.06:904][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.09-01.36.06:975][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.09-01.36.07:052][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.09-01.36.07:129][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.09-01.36.07:204][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.09-01.36.07:205][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.09-01.36.07:911][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.09-01.36.07:969][  0]LogDerivedDataCache: Loaded boot cache 0.06s 79MB C:/Users/vangeles2/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.09-01.36.07:969][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/vangeles2/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.09-01.36.07:969][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.09-01.36.07:969][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.09-01.36.07:969][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.09-01.36.07:969][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.09-01.36.07:982][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.09-01.36.07:995][  0]LogDerivedDataCache: Using Local data cache path C:/Users/vangeles2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.09-01.36.08:004][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.09-01.36.08:004][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.09-01.36.08:005][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.09-01.36.08:005][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.09-01.36.08:382][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.09-01.36.08:823][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.09-01.36.08:883][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.09-01.36.08:883][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.09-01.36.08:883][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.09-01.36.08:883][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.09-01.36.08:883][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.09-01.36.08:920][  0]LogNetVersion: SHOT_STUDIOS_MASTER , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2059099905)
+[2018.04.09-01.36.09:127][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2018.04.09-01.36.09:754][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.096926 seconds
+[2018.04.09-01.36.09:762][  0]LogUObjectArray: 35871 objects as part of root set at end of initial load.
+[2018.04.09-01.36.09:762][  0]LogUObjectAllocator: 7363928 out of 0 bytes used by permanent object pool.
+[2018.04.09-01.36.09:762][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.09-01.36.09:853][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.09-01.36.14:032][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.09-01.36.14:094][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.09-01.36.15:350][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.09-01.36.16:055][  0]SourceControl: Source control is disabled
+[2018.04.09-01.36.16:055][  0]SourceControl: Source control is disabled
+[2018.04.09-01.36.16:154][  0]SourceControl: Source control is disabled
+[2018.04.09-01.36.16:256][  0]SourceControl: Source control is disabled
+[2018.04.09-01.36.17:706][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.09-01.36.18:197][  0]LogOcInput: OculusInput pre-init called
+[2018.04.09-01.36.18:630][  0]LogEngine: Initializing Engine...
+[2018.04.09-01.36.18:632][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.09-01.36.18:832][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.09-01.36.18:832][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.09-01.36.19:047][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.09-01.36.19:067][  0]LogInit: XAudio2 using 'U28E850-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.09-01.36.19:081][  0]LogInit: FAudioDevice initialized.
+[2018.04.09-01.36.19:162][  0]LogDerivedDataCache: Saved boot cache 0.08s 79MB C:/Users/vangeles2/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.09-01.36.19:167][  0]LogInit: Texture streaming: Enabled
+[2018.04.09-01.36.19:323][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.09-01.36.19:544][  0]LogInit: Transaction tracking system initialized
+[2018.04.09-01.36.20:074][  0]BlueprintLog: New page: Editor Load
+[2018.04.09-01.36.21:536][  0]LocalizationService: Localization service is disabled
+[2018.04.09-01.36.22:825][  0]LogConsoleResponse: Display: 
+[2018.04.09-01.36.22:960][  0]LogLinker: Warning: The file '../../../Engine/Content/EditorMaterials/WidgetMaterial_Current.uasset' contains unrecognizable data, check that it is of the expected type.
+[2018.04.09-01.36.23:126][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.09-01.36.23:127][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.09-01.36.23:127][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.09-01.36.23:507][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Content/' took 0.02s
+[2018.04.09-01.36.25:605][  0]SourceControl: Source control is disabled
+[2018.04.09-01.36.25:606][  0]LightingResults: New page: Lighting Build
+[2018.04.09-01.36.25:681][  0]MapCheck: New page: Map Check
+[2018.04.09-01.36.25:681][  0]LightingResults: New page: Lighting Build
+[2018.04.09-01.36.25:852][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2018.04.09-01.36.25:853][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.04.09-01.36.25:853][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2018.04.09-01.36.25:853][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2018.04.09-01.36.25:862][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] [0043.39] Compile of Ue4ASP_Character successful, but with 4 Warning(s) [in 36 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2018.04.09-01.36.25:976][  0]LogLinker: Warning: The file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset' contains unrecognizable data, check that it is of the expected type.
+[2018.04.09-01.36.25:976][  0]LogLinker: Warning: The file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset' contains unrecognizable data, check that it is of the expected type.
+[2018.04.09-01.36.25:992][  0]LogLinker: Warning: The file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset' contains unrecognizable data, check that it is of the expected type.
+[2018.04.09-01.36.25:992][  0]LogLinker: Warning: The file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset' contains unrecognizable data, check that it is of the expected type.
+[2018.04.09-01.36.25:993][  0]LogLinker: Warning: The file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset' contains unrecognizable data, check that it is of the expected type.
+[2018.04.09-01.36.25:993][  0]LogLinker: Warning: The file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset' contains unrecognizable data, check that it is of the expected type.
+[2018.04.09-01.36.26:005][  0]LogLinker: Warning: The file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset' contains unrecognizable data, check that it is of the expected type.
+[2018.04.09-01.36.26:005][  0]LogLinker: Warning: The file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset' contains unrecognizable data, check that it is of the expected type.
+[2018.04.09-01.36.26:006][  0]LogLinker: Warning: The file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset' contains unrecognizable data, check that it is of the expected type.
+[2018.04.09-01.36.26:006][  0]LogLinker: Warning: The file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset' contains unrecognizable data, check that it is of the expected type.
+[2018.04.09-01.36.26:206][  0]LogLinker: Warning: The file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset' contains unrecognizable data, check that it is of the expected type.
+[2018.04.09-01.36.26:206][  0]LogLinker: Warning: The file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset' contains unrecognizable data, check that it is of the expected type.
+[2018.04.09-01.36.26:207][  0]LogLinker: Warning: The file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset' contains unrecognizable data, check that it is of the expected type.
+[2018.04.09-01.36.26:207][  0]LogLinker: Warning: The file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset' contains unrecognizable data, check that it is of the expected type.
+[2018.04.09-01.36.26:209][  0]LogLinker: Warning: The file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset' contains unrecognizable data, check that it is of the expected type.
+[2018.04.09-01.36.26:209][  0]LogLinker: Warning: The file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset' contains unrecognizable data, check that it is of the expected type.
+[2018.04.09-01.36.26:210][  0]LogLinker: Warning: The file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset' contains unrecognizable data, check that it is of the expected type.
+[2018.04.09-01.36.26:210][  0]LogLinker: Warning: The file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset' contains unrecognizable data, check that it is of the expected type.
+[2018.04.09-01.36.26:211][  0]LogLinker: Warning: The file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset' contains unrecognizable data, check that it is of the expected type.
+[2018.04.09-01.36.26:211][  0]LogLinker: Warning: The file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset' contains unrecognizable data, check that it is of the expected type.
+[2018.04.09-01.36.26:573][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.04.09-01.36.26:588][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.09-01.36.26:601][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.09-01.36.26:715][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 113.274ms to complete.
+[2018.04.09-01.36.26:715][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 1.110
+[2018.04.09-01.36.26:781][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.09-01.36.26:877][  0]LogCollectionManager: Loaded 0 collections in 0.002041 seconds
+[2018.04.09-01.36.26:990][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Saved/Collections/' took 0.01s
+[2018.04.09-01.36.26:990][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Content/Developers/vangeles2/Collections/' took 0.01s
+[2018.04.09-01.36.26:990][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Content/Collections/' took 0.01s
+[2018.04.09-01.36.26:990][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.09-01.36.26:998][  0]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 2366 classes and 521 folders.
+[2018.04.09-01.36.27:136][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2018.04.09-01.36.27:200][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2018.04.09-01.36.27:287][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2018.04.09-01.36.27:306][  0]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.09-01.36.27:309][  0]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.09-01.36.27:316][  0]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.09-01.36.27:417][  0]LogRenderer: Reallocating scene render targets to support 1616x812 Format 10 NumSamples 1 (Frame:1).
+[2018.04.09-01.36.27:614][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.04.09-01.36.27:614][  0]LogLoad: (Engine Initialization) Total time: 45.15 seconds
+[2018.04.09-01.36.27:614][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.09-01.36.27:614][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.04.09-01.36.27:614][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.04.09-01.36.27:647][  0]LogAssetRegistry: Asset discovery search completed in 18.5428 seconds
+[2018.04.09-01.36.27:649][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.09-01.36.27:649][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000111 seconds (updated 0 objects)
+[2018.04.09-01.36.27:651][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.09-01.36.59:929][262]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.09-01.38.40:564][787]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.09-01.38.40:606][787]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.09-01.38.56:521][ 70]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2018.04.09-01.38.57:262][ 70]LogRenderer: Reallocating scene render targets to support 1908x1260 Format 10 NumSamples 1 (Frame:1).
+[2018.04.09-01.39.06:488][209]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.09-01.40.05:126][639]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.09-01.40.41:115][525]LogSavePackage: Save=195.61ms
+[2018.04.09-01.40.41:115][525]LogSavePackage: Moving '../../../../../../Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Saved/TopDownExampleMapF1F892E040FB598AB9C217ACCE02654F.tmp' to '../../../../../../Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.04.09-01.40.41:122][525]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.04.09-01.40.41:920][615]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.04.09-01.40.41:924][615]Candidate modules for hot reload:
+[2018.04.09-01.40.41:924][615]  SHOT_STUDIOS_MASTER
+[2018.04.09-01.40.41:925][615]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe SHOT_STUDIOS_MASTER -ModuleWithSuffix SHOT_STUDIOS_MASTER 1905 Win64 Development -editorrecompile -canskiplink "C:/Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/SHOT_STUDIOS_MASTER.uproject" ]
+[2018.04.09-01.40.41:927][615]Warning: Starting HotReload took  0.0s.
+[2018.04.09-01.40.43:373][780]CompilerResultsLog: New page: Compilation - 9 Apr 2018 9:40:43 pm
+[2018.04.09-01.40.43:373][780]CompilerResultsLog: Compiling game modules for hot reload
+[2018.04.09-01.40.43:373][780]CompilerResultsLog: Target is up to date
+[2018.04.09-01.40.43:373][780]CompilerResultsLog: Total build time: 1.11 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.04.09-01.40.43:373][780]LogMainFrame: MainFrame: Module compiling took 1.453 seconds
+[2018.04.09-01.40.43:601][780]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2368 classes and 525 folders.
+[2018.04.09-01.40.43:601][780]Display: HotReload took  1.7s.
+[2018.04.09-01.43.36:439][153]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.04.09-01.43.36:442][153]Candidate modules for hot reload:
+[2018.04.09-01.43.36:442][153]  SHOT_STUDIOS_MASTER
+[2018.04.09-01.43.36:443][153]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe SHOT_STUDIOS_MASTER -ModuleWithSuffix SHOT_STUDIOS_MASTER 6610 Win64 Development -editorrecompile -canskiplink "C:/Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/SHOT_STUDIOS_MASTER.uproject" ]
+[2018.04.09-01.43.36:445][153]Warning: Starting HotReload took  0.0s.
+[2018.04.09-01.43.46:208][303]CompilerResultsLog: New page: Compilation - 9 Apr 2018 9:43:46 pm
+[2018.04.09-01.43.46:208][303]CompilerResultsLog: Compiling game modules for hot reload
+[2018.04.09-01.43.46:208][303]CompilerResultsLog: Parsing headers for SHOT_STUDIOS_MASTEREditor
+[2018.04.09-01.43.46:208][303]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\SHOT_STUDIOS_MASTER.uproject" "C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\SHOT_STUDIOS_MASTEREditor\Development\SHOT_STUDIOS_MASTEREditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.04.09-01.43.46:208][303]CompilerResultsLog: Error: C:/Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Source/SHOT_STUDIOS_MASTER/AIPatrol.h(29)  : Error: Unrecognized type 'UBehaviourTree' - type must be a UCLASS, USTRUCT or UENUM
+[2018.04.09-01.43.46:208][303]CompilerResultsLog: UnrealHeaderTool failed for target 'SHOT_STUDIOS_MASTEREditor' (platform: Win64, module info: C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\SHOT_STUDIOS_MASTEREditor\Development\SHOT_STUDIOS_MASTEREditor.uhtmanifest).
+[2018.04.09-01.43.46:208][303]LogMainFrame: MainFrame: Module compiling took 9.770 seconds
+[2018.04.09-01.43.46:208][303]Warning: HotReload failed, recompile failed
+[2018.04.09-01.43.57:170][442]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.09-01.44.39:623][552]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.04.09-01.44.41:273][556]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.04.09-01.44.41:463][557]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.04.09-01.45.52:888][261]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.04.09-01.45.52:891][261]Candidate modules for hot reload:
+[2018.04.09-01.45.52:891][261]  SHOT_STUDIOS_MASTER
+[2018.04.09-01.45.52:891][261]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe SHOT_STUDIOS_MASTER -ModuleWithSuffix SHOT_STUDIOS_MASTER 5314 Win64 Development -editorrecompile -canskiplink "C:/Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/SHOT_STUDIOS_MASTER.uproject" ]
+[2018.04.09-01.45.52:894][261]Warning: Starting HotReload took  0.0s.
+[2018.04.09-01.46.03:525][276]CompilerResultsLog: New page: Compilation - 9 Apr 2018 9:46:03 pm
+[2018.04.09-01.46.03:525][276]CompilerResultsLog: Compiling game modules for hot reload
+[2018.04.09-01.46.03:525][276]CompilerResultsLog: Parsing headers for SHOT_STUDIOS_MASTEREditor
+[2018.04.09-01.46.03:525][276]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\SHOT_STUDIOS_MASTER.uproject" "C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\SHOT_STUDIOS_MASTEREditor\Development\SHOT_STUDIOS_MASTEREditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.04.09-01.46.03:525][276]CompilerResultsLog: Error: C:/Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Source/SHOT_STUDIOS_MASTER/AIPatrol.h(29)  : Error: Unrecognized type 'UBehaviourTree' - type must be a UCLASS, USTRUCT or UENUM
+[2018.04.09-01.46.03:525][276]CompilerResultsLog: UnrealHeaderTool failed for target 'SHOT_STUDIOS_MASTEREditor' (platform: Win64, module info: C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\SHOT_STUDIOS_MASTEREditor\Development\SHOT_STUDIOS_MASTEREditor.uhtmanifest).
+[2018.04.09-01.46.03:525][276]LogMainFrame: MainFrame: Module compiling took 10.638 seconds
+[2018.04.09-01.46.03:525][276]Warning: HotReload failed, recompile failed
+[2018.04.09-01.46.40:340][482]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.04.09-01.46.40:344][482]Candidate modules for hot reload:
+[2018.04.09-01.46.40:344][482]  SHOT_STUDIOS_MASTER
+[2018.04.09-01.46.40:344][482]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe SHOT_STUDIOS_MASTER -ModuleWithSuffix SHOT_STUDIOS_MASTER 2966 Win64 Development -editorrecompile -canskiplink "C:/Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/SHOT_STUDIOS_MASTER.uproject" ]
+[2018.04.09-01.46.40:346][482]Warning: Starting HotReload took  0.0s.
+[2018.04.09-01.46.52:604][723]CompilerResultsLog: New page: Compilation - 9 Apr 2018 9:46:52 pm
+[2018.04.09-01.46.52:604][723]CompilerResultsLog: Compiling game modules for hot reload
+[2018.04.09-01.46.52:604][723]CompilerResultsLog: Parsing headers for SHOT_STUDIOS_MASTEREditor
+[2018.04.09-01.46.52:604][723]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\SHOT_STUDIOS_MASTER.uproject" "C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\SHOT_STUDIOS_MASTEREditor\Development\SHOT_STUDIOS_MASTEREditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.04.09-01.46.52:604][723]CompilerResultsLog: Reflection code generated for SHOT_STUDIOS_MASTEREditor in 9.1928474 seconds
+[2018.04.09-01.46.52:604][723]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.04.09-01.46.52:604][723]CompilerResultsLog: AIPatrol.cpp
+[2018.04.09-01.46.52:604][723]CompilerResultsLog: AIPatrol.gen.cpp
+[2018.04.09-01.46.52:604][723]CompilerResultsLog: SHOT_STUDIOS_MASTER.init.gen.cpp
+[2018.04.09-01.46.52:604][723]CompilerResultsLog: [4/5] Link UE4Editor-SHOT_STUDIOS_MASTER-2966.dll
+[2018.04.09-01.46.52:604][723]CompilerResultsLog: [5/5] Link UE4Editor-SHOT_STUDIOS_MASTER-2966.lib
+[2018.04.09-01.46.52:604][723]CompilerResultsLog:    Creating library C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SHOT_STUDIOS_MASTER-2966.lib and object C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SHOT_STUDIOS_MASTER-2966.exp
+[2018.04.09-01.46.52:604][723]CompilerResultsLog:    Creating library C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SHOT_STUDIOS_MASTER-2966.suppressed.lib and object C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SHOT_STUDIOS_MASTER-2966.suppressed.exp
+[2018.04.09-01.46.52:604][723]CompilerResultsLog: Total build time: 11.96 seconds (Local executor: 1.42 seconds)
+[2018.04.09-01.46.52:604][723]LogMainFrame: MainFrame: Module compiling took 12.264 seconds
+[2018.04.09-01.46.52:755][723]LogClass: Could not find existing class AIPatrol in package /Script/SHOT_STUDIOS_MASTER for HotReload, assuming new class
+[2018.04.09-01.46.52:764][723]LogHotReload: Re-instancing AIPatrol after hot-reload.
+[2018.04.09-01.46.52:875][723]LogContentBrowser: Native class hierarchy updated for 'SHOT_STUDIOS_MASTER' in 0.0007 seconds. Added 3 classes and 2 folders.
+[2018.04.09-01.46.52:878][723]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.04.09-01.46.53:190][723]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2368 classes and 525 folders.
+[2018.04.09-01.46.53:190][723]Display: HotReload took 12.9s.
+[2018.04.09-01.47.11:311][565]BlueprintLog: New page: Compile BP_AIPatrol
+[2018.04.09-01.48.48:221][  7]LogEditorTransaction: Undo Modify Component(s)
+[2018.04.09-01.49.13:746][445]BlueprintLog: New page: Compile BP_AIPatrol
+[2018.04.09-01.49.37:364][ 28]LogWindows: LaunchFileInExternalEditor C:/Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Source/SHOT_STUDIOS_MASTER/AIPatrol.h 
+[2018.04.09-01.49.37:647][ 28]LogWindows: Launch application code for C:/Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Source/SHOT_STUDIOS_MASTER/AIPatrol.h : 42
+[2018.04.09-01.49.37:647][ 28]LogWindows: LaunchFileInExternalEditor C:/Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Source/SHOT_STUDIOS_MASTER/AIPatrol.cpp 
+[2018.04.09-01.49.38:050][ 28]LogWindows: Launch application code for C:/Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Source/SHOT_STUDIOS_MASTER/AIPatrol.cpp : 42
+[2018.04.09-01.49.38:050][ 28]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.04.09-01.49.38:057][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:057][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:057][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:057][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:058][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:058][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:058][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:058][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:058][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:058][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:058][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:058][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:059][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:059][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:059][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:059][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:059][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:059][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:059][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:059][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:059][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:059][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:060][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:060][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:060][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:060][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:060][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:060][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:060][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:060][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:060][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:060][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:061][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:061][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:061][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:061][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:061][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:061][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:061][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:061][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:061][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:061][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:062][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:062][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:062][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:062][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:062][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:062][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:062][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:062][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:062][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:062][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:063][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:063][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:063][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:063][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:063][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:063][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:063][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:063][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:064][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:064][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:064][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:064][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:064][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:064][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:064][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:064][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:065][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:065][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:065][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:065][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:065][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:065][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:065][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:065][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:065][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:065][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:066][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:066][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:066][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:066][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:066][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:066][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:066][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:066][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:066][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:067][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:067][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:067][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:067][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:067][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:067][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:067][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:068][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:068][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:068][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:068][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:068][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:068][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:068][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:068][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:068][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:068][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:069][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:069][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:069][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:069][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:069][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:069][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:069][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:069][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:069][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:069][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:070][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:070][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:070][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:070][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:070][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:070][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:070][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:070][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:070][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:071][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:071][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:071][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:071][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:071][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:071][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:071][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:071][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:071][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:071][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:072][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:072][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:072][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:072][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:072][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:072][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:072][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:072][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:072][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:072][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:073][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:073][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:073][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:073][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:073][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:073][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:074][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:074][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:074][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:074][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:074][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:074][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:074][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:074][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:074][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:075][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:075][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:075][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:075][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:075][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:075][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:075][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:075][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:075][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:075][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:076][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:076][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:076][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:076][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:076][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:076][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:076][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:076][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:076][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:077][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:077][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:077][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:077][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:077][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:077][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:077][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:077][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:077][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:078][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:078][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:078][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:078][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:078][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:078][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:078][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:078][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:078][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:079][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:079][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:079][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:079][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:079][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:079][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:079][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:079][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:080][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:080][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:080][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:080][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:080][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:080][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:081][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:081][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:081][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:081][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:081][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:081][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:081][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:082][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:082][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:082][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:083][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:083][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:083][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:083][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:083][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:083][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:083][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:083][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:083][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:083][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:083][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:084][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:084][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:084][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:084][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:084][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:084][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:084][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:084][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:084][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:084][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:129][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:129][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:129][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:182][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:183][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:183][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:258][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:258][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:258][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:258][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:259][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:259][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:259][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:259][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:259][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:260][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:260][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:260][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:260][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:260][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:260][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:260][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:260][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:260][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:260][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:260][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:260][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:260][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:260][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:261][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:261][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:261][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:261][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:261][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:261][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:261][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:261][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:261][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:261][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:262][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:262][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:262][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:262][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:262][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:262][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:262][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:262][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:262][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:262][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:263][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:263][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:263][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:263][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:263][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:263][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:263][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:263][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:264][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:264][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:264][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:264][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:264][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:264][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:264][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:264][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:265][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:265][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:265][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:265][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:265][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:265][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:265][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:265][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:265][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:266][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:266][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:266][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:266][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:266][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:266][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:266][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:266][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:266][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:266][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:267][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:267][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:267][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:267][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:267][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:267][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:267][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:267][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:267][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:268][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:268][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:268][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:268][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:268][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:268][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:268][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:268][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:268][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:268][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:268][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:269][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:269][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:269][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:269][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:269][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:269][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:269][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:269][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:269][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:270][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:270][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:270][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:270][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:270][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:270][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:270][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:270][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:270][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:271][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:271][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:271][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:271][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:271][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:271][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:271][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:271][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:271][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:271][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:272][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:272][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:272][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:272][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:272][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:272][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:272][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:272][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:272][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:272][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:273][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:273][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:273][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:273][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:273][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:273][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:273][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:273][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:274][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:274][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:274][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:274][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:274][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:274][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:274][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:274][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:274][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:274][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:275][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:275][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:275][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:275][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:275][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:275][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:275][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:276][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:276][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:276][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:276][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:276][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:276][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:276][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:276][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:276][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:276][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:277][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:277][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:277][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:277][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:277][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:277][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:277][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:277][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:277][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:277][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:278][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:278][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:278][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:278][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:278][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:278][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:278][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:278][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:278][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:278][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:279][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:279][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:279][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:279][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:279][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:279][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:279][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:279][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:279][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:280][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:280][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:280][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:280][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:280][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:280][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:281][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:281][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:281][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:281][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:281][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:281][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:281][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:281][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:281][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:282][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:282][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:282][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:282][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:283][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:283][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:283][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:283][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:283][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:283][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:283][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:283][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:283][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:283][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:283][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:283][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:283][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:283][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:283][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:284][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:284][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:284][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:284][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:284][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:284][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:327][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:328][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:328][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:418][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:418][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.38:419][ 28]LogVSAccessor: Warning: Couldn't access module table
+[2018.04.09-01.49.52:392][347]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.04.09-01.49.52:392][347]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.04.09-01.49.53:903][525]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.09-01.49.56:129][789]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.09-01.50.08:617][229]BlueprintLog: New page: Compile BP_AIPatrol
+[2018.04.09-01.50.12:663][633]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.09-01.50.22:015][711]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.04.09-01.50.22:015][711]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.04.09-01.50.23:121][838]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.04.09-01.50.23:121][838]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.04.09-01.50.37:162][442]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.04.09-01.50.45:111][267]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2018.04.09-01.50.45:112][267]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2018.04.09-01.50.45:112][267]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2018.04.09-01.50.52:620][ 62]BlueprintLog: New page: Compile BP_AIPatrol
+[2018.04.09-01.50.55:479][333]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.09-01.51.01:497][989]BlueprintLog: New page: Compile BP_AIPatrol
+[2018.04.09-01.51.23:495][965]LogSavePackage: Save=21.60ms
+[2018.04.09-01.51.23:496][965]LogSavePackage: Moving '../../../../../../Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Saved/BP_AIPatrolF0D2EB574A18B63DD93A579FE17886AA.tmp' to '../../../../../../Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Content/AI_Version2/BlueprintExtensions/BP_AIPatrol.uasset'
+[2018.04.09-01.51.23:502][965]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Content/AI_Version2/BlueprintExtensions/BP_AIPatrol.uasset
+[2018.04.09-01.51.23:538][969]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI_Version2/BlueprintExtensions/BP_AIPatrol.
+[2018.04.09-01.51.29:848][714]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.015
+[2018.04.09-01.51.29:851][714]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI_Version2/BlueprintExtensions/BP_AIPatrolPoint] ([1] browsable assets)...
+[2018.04.09-01.51.29:852][714]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI_Version2/BlueprintExtensions/BP_AIPatrolPoint]
+[2018.04.09-01.51.29:866][714]LogSavePackage: Save=12.06ms
+[2018.04.09-01.51.29:867][714]LogSavePackage: Moving '../../../../../../Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Saved/BP_AIPatrolPoint_Auto1D4BC73DD4FE169F96B174A8DB0C13CF1.tmp' to '../../../../../../Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/AI_Version2/BlueprintExtensions/BP_AIPatrolPoint_Auto1.uasset'
+[2018.04.09-01.51.29:869][714]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/AI_Version2/BlueprintExtensions/BP_AIPatrolPoint_Auto1.uasset
+[2018.04.09-01.51.29:871][714]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI_Version2/BlueprintExtensions/BP_AIPatrolController] ([1] browsable assets)...
+[2018.04.09-01.51.29:871][714]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI_Version2/BlueprintExtensions/BP_AIPatrolController]
+[2018.04.09-01.51.29:882][714]LogSavePackage: Save=8.87ms
+[2018.04.09-01.51.29:882][714]LogSavePackage: Moving '../../../../../../Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Saved/BP_AIPatrolController_Auto1D9B85DD2465BDFEA60D2C2BA76A60A3B.tmp' to '../../../../../../Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/AI_Version2/BlueprintExtensions/BP_AIPatrolController_Auto1.uasset'
+[2018.04.09-01.51.29:884][714]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/AI_Version2/BlueprintExtensions/BP_AIPatrolController_Auto1.uasset
+[2018.04.09-01.51.29:886][714]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI_Version2/Behaviour/AIPatrol_BT] ([1] browsable assets)...
+[2018.04.09-01.51.29:886][714]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI_Version2/Behaviour/AIPatrol_BT]
+[2018.04.09-01.51.29:892][714]LogSavePackage: Save=3.18ms
+[2018.04.09-01.51.29:892][714]LogSavePackage: Moving '../../../../../../Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Saved/AIPatrol_BT_Auto147A840844E2F8D0CB771CAA0A37EB113.tmp' to '../../../../../../Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/AI_Version2/Behaviour/AIPatrol_BT_Auto1.uasset'
+[2018.04.09-01.51.29:895][714]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/AI_Version2/Behaviour/AIPatrol_BT_Auto1.uasset
+[2018.04.09-01.51.29:897][714]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI_Version2/Behaviour/AIPatrol_BB] ([1] browsable assets)...
+[2018.04.09-01.51.29:897][714]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI_Version2/Behaviour/AIPatrol_BB]
+[2018.04.09-01.51.29:901][714]LogSavePackage: Save=2.41ms
+[2018.04.09-01.51.29:902][714]LogSavePackage: Moving '../../../../../../Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Saved/AIPatrol_BB_Auto1F2DE148544A6DBFA49442CB201FBCAD6.tmp' to '../../../../../../Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/AI_Version2/Behaviour/AIPatrol_BB_Auto1.uasset'
+[2018.04.09-01.51.29:904][714]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/vangeles2/Desktop/SHOT_STUDIOS_FINAL/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_FINAL-master/SHOT_STUDIOS_MASTER_Copy/Saved/Autosaves/Game/AI_Version2/Behaviour/AIPatrol_BB_Auto1.uasset
+[2018.04.09-01.51.29:904][714]LogFileHelpers: Auto-saving content packages took 0.055

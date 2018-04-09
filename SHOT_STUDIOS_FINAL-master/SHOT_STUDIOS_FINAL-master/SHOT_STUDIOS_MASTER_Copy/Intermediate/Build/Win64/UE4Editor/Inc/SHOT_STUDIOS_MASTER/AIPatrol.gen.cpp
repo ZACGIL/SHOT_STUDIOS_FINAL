@@ -17,6 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeAIPatrol() {}
 	SHOT_STUDIOS_MASTER_API UClass* Z_Construct_UClass_AAIPatrol();
 	ENGINE_API UClass* Z_Construct_UClass_ACharacter();
 	UPackage* Z_Construct_UPackage__Script_SHOT_STUDIOS_MASTER();
+	AIMODULE_API UClass* Z_Construct_UClass_UBehaviorTree_NoRegister();
 // End Cross Module References
 	void AAIPatrol::StaticRegisterNativesAAIPatrol()
 	{
@@ -41,6 +42,16 @@ void EmptyLinkFunctionForGeneratedCodeAIPatrol() {}
 				{ "ModuleRelativePath", "AIPatrol.h" },
 			};
 #endif
+#if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_BehaviourTree_MetaData[] = {
+				{ "Category", "AI" },
+				{ "ModuleRelativePath", "AIPatrol.h" },
+			};
+#endif
+			static const UE4CodeGen_Private::FObjectPropertyParams NewProp_BehaviourTree = { UE4CodeGen_Private::EPropertyClass::Object, "BehaviourTree", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000001, 1, nullptr, STRUCT_OFFSET(AAIPatrol, BehaviourTree), Z_Construct_UClass_UBehaviorTree_NoRegister, METADATA_PARAMS(NewProp_BehaviourTree_MetaData, ARRAY_COUNT(NewProp_BehaviourTree_MetaData)) };
+			static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[] = {
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_BehaviourTree,
+			};
 			static const FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
 				TCppClassTypeTraits<AAIPatrol>::IsAbstract,
 			};
@@ -49,7 +60,7 @@ void EmptyLinkFunctionForGeneratedCodeAIPatrol() {}
 				DependentSingletons, ARRAY_COUNT(DependentSingletons),
 				0x00900080u,
 				nullptr, 0,
-				nullptr, 0,
+				PropPointers, ARRAY_COUNT(PropPointers),
 				nullptr,
 				&StaticCppClassTypeInfo,
 				nullptr, 0,
@@ -59,7 +70,7 @@ void EmptyLinkFunctionForGeneratedCodeAIPatrol() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AAIPatrol, 3134114086);
+	IMPLEMENT_CLASS(AAIPatrol, 245756252);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_AAIPatrol(Z_Construct_UClass_AAIPatrol, &AAIPatrol::StaticClass, TEXT("/Script/SHOT_STUDIOS_MASTER"), TEXT("AAIPatrol"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AAIPatrol);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
