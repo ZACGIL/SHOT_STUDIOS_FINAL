@@ -15,7 +15,7 @@ class SHOT_STUDIOS_MASTER_API AAIPatrolController : public AAIController
 	GENERATED_BODY()
 
 		//BehaviorTree Component
-		UBehaviorTree* BehaviorTreeComp;
+		UBehaviorTreeComponent* BehaviorComp;
 
 		//Blackboard Component
 		UBlackboardComponent* BlackboardComp;
@@ -27,11 +27,20 @@ class SHOT_STUDIOS_MASTER_API AAIPatrolController : public AAIController
 		UPROPERTY(EditDefaultsOnly, Category = AI)
 			FName PlayerKey;
 
+		TArray<AActor*> PatrolPoints;
+
+		virtual void Possess(APawn * Pawn) override;
+
+		int32 CurrentPatrolPoint = 0;
+
 public:
 
 	AAIPatrolController();
 
+	void SetPlayerCaught(APawn* Pawn);
+
 	FORCEINLINE UBlackboardComponent* GetBlackboardComp() const { return BlackboardComp; }
+	FORCEINLINE TArray<AActor *> GetPatrolPoints() const { return PatrolPoints; }
 	
 	
 };
