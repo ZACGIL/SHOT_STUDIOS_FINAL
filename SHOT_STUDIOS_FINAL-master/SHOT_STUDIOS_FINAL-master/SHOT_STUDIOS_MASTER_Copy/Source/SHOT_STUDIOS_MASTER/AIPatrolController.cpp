@@ -1,7 +1,6 @@
-// Fill out your copyright notice in the Description page of Project Settings.
 
-#include "SHOT_STUDIOS_MASTER.h"
 #include "AIPatrolController.h"
+#include "SHOT_STUDIOS_MASTER.h"
 #include "AIPatrol.h"
 #include "AIPatrolPoint.h"
 #include "BehaviorTree/BlackboardComponent.h"

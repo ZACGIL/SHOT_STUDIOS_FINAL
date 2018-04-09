@@ -41,6 +41,25 @@ void EmptyLinkFunctionForGeneratedCodeAIPatrolController() {}
 				{ "ModuleRelativePath", "AIPatrolController.h" },
 			};
 #endif
+#if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_PlayerKey_MetaData[] = {
+				{ "Category", "AI" },
+				{ "ModuleRelativePath", "AIPatrolController.h" },
+			};
+#endif
+			static const UE4CodeGen_Private::FNamePropertyParams NewProp_PlayerKey = { UE4CodeGen_Private::EPropertyClass::Name, "PlayerKey", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000010001, 1, nullptr, STRUCT_OFFSET(AAIPatrolController, PlayerKey), METADATA_PARAMS(NewProp_PlayerKey_MetaData, ARRAY_COUNT(NewProp_PlayerKey_MetaData)) };
+#if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_LocationToGoKey_MetaData[] = {
+				{ "Category", "AI" },
+				{ "ModuleRelativePath", "AIPatrolController.h" },
+				{ "ToolTip", "Blackboard Keys" },
+			};
+#endif
+			static const UE4CodeGen_Private::FNamePropertyParams NewProp_LocationToGoKey = { UE4CodeGen_Private::EPropertyClass::Name, "LocationToGoKey", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000010001, 1, nullptr, STRUCT_OFFSET(AAIPatrolController, LocationToGoKey), METADATA_PARAMS(NewProp_LocationToGoKey_MetaData, ARRAY_COUNT(NewProp_LocationToGoKey_MetaData)) };
+			static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[] = {
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_PlayerKey,
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_LocationToGoKey,
+			};
 			static const FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
 				TCppClassTypeTraits<AAIPatrolController>::IsAbstract,
 			};
@@ -49,7 +68,7 @@ void EmptyLinkFunctionForGeneratedCodeAIPatrolController() {}
 				DependentSingletons, ARRAY_COUNT(DependentSingletons),
 				0x00900280u,
 				nullptr, 0,
-				nullptr, 0,
+				PropPointers, ARRAY_COUNT(PropPointers),
 				nullptr,
 				&StaticCppClassTypeInfo,
 				nullptr, 0,
@@ -59,7 +78,7 @@ void EmptyLinkFunctionForGeneratedCodeAIPatrolController() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AAIPatrolController, 1000136188);
+	IMPLEMENT_CLASS(AAIPatrolController, 450316603);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_AAIPatrolController(Z_Construct_UClass_AAIPatrolController, &AAIPatrolController::StaticClass, TEXT("/Script/SHOT_STUDIOS_MASTER"), TEXT("AAIPatrolController"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AAIPatrolController);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

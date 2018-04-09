@@ -8,13 +8,36 @@
 #include "ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class APawn;
 #ifdef SHOT_STUDIOS_MASTER_AIPatrol_generated_h
 #error "AIPatrol.generated.h already included, missing '#pragma once' in AIPatrol.h"
 #endif
 #define SHOT_STUDIOS_MASTER_AIPatrol_generated_h
 
-#define SHOT_STUDIOS_MASTER_Copy_Source_SHOT_STUDIOS_MASTER_AIPatrol_h_12_RPC_WRAPPERS
-#define SHOT_STUDIOS_MASTER_Copy_Source_SHOT_STUDIOS_MASTER_AIPatrol_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define SHOT_STUDIOS_MASTER_Copy_Source_SHOT_STUDIOS_MASTER_AIPatrol_h_12_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execOnPlayerCaught) \
+	{ \
+		P_GET_OBJECT(APawn,Z_Param_Pawn); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		this->OnPlayerCaught(Z_Param_Pawn); \
+		P_NATIVE_END; \
+	}
+
+
+#define SHOT_STUDIOS_MASTER_Copy_Source_SHOT_STUDIOS_MASTER_AIPatrol_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execOnPlayerCaught) \
+	{ \
+		P_GET_OBJECT(APawn,Z_Param_Pawn); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		this->OnPlayerCaught(Z_Param_Pawn); \
+		P_NATIVE_END; \
+	}
+
+
 #define SHOT_STUDIOS_MASTER_Copy_Source_SHOT_STUDIOS_MASTER_AIPatrol_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAAIPatrol(); \

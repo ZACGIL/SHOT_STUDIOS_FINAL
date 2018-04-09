@@ -19,8 +19,8 @@ void EmptyLinkFunctionForGeneratedCodeSHOT_STUDIOS_MASTER_init() {}
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/SHOT_STUDIOS_MASTER",
 				PKG_CompiledIn | 0x00000000,
-				0xAD62BC54,
-				0xE8E9BFFC,
+				0xC7B4E0EC,
+				0x193CFE17,
 				nullptr, 0,
 				METADATA_PARAMS(nullptr, 0)
 			};
