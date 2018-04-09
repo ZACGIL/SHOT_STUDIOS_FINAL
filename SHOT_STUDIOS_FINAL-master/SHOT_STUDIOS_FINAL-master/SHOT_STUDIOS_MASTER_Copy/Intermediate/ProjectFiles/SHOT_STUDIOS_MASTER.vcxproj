@@ -417,6 +417,10 @@
 		<None Include="..\..\Config\DefaultInput.ini" />
 		<ClCompile Include="..\..\Source\SHOT_STUDIOS_MASTER\AIPatrol.cpp" />
 		<ClInclude Include="..\..\Source\SHOT_STUDIOS_MASTER\AIPatrol.h" />
+		<ClCompile Include="..\..\Source\SHOT_STUDIOS_MASTER\AIPatrolController.cpp" />
+		<ClInclude Include="..\..\Source\SHOT_STUDIOS_MASTER\AIPatrolController.h" />
+		<ClCompile Include="..\..\Source\SHOT_STUDIOS_MASTER\AIPatrolPoint.cpp" />
+		<ClInclude Include="..\..\Source\SHOT_STUDIOS_MASTER\AIPatrolPoint.h" />
 		<None Include="..\..\Source\SHOT_STUDIOS_MASTER\SHOT_STUDIOS_MASTER.Build.cs" />
 		<ClCompile Include="..\..\Source\SHOT_STUDIOS_MASTER\SHOT_STUDIOS_MASTER.cpp" />
 		<ClInclude Include="..\..\Source\SHOT_STUDIOS_MASTER\SHOT_STUDIOS_MASTER.h" />

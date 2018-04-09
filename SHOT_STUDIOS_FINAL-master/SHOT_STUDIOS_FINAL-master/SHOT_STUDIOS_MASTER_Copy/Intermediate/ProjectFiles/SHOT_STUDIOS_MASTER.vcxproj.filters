@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\SHOT_STUDIOS_MASTER.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{38B83F2E-E58A-4791-97DB-789C8C4997B8}</UniqueIdentifier>
+			<UniqueIdentifier>{9261F0D8-ABB4-40B7-887D-47647D21B4EC}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\SHOT_STUDIOS_MASTER.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{586B25C5-7280-4FB6-8B19-2F0354F7B56C}</UniqueIdentifier>
+			<UniqueIdentifier>{9BCF22A2-06D2-4E78-A773-C534D8CB0E3E}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -31,12 +31,24 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\SHOT_STUDIOS_MASTER">
-			<UniqueIdentifier>{D0A364DD-B3C1-4C8E-B47F-8474C0D3B3BC}</UniqueIdentifier>
+			<UniqueIdentifier>{AA79B2B6-E1FA-4ED7-AE2D-4A36AC939384}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\Source\SHOT_STUDIOS_MASTER\AIPatrol.cpp">
 			<Filter>Source\SHOT_STUDIOS_MASTER</Filter>
 		</ClCompile >
 		<ClInclude Include="..\..\Source\SHOT_STUDIOS_MASTER\AIPatrol.h">
+			<Filter>Source\SHOT_STUDIOS_MASTER</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SHOT_STUDIOS_MASTER\AIPatrolController.cpp">
+			<Filter>Source\SHOT_STUDIOS_MASTER</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SHOT_STUDIOS_MASTER\AIPatrolController.h">
+			<Filter>Source\SHOT_STUDIOS_MASTER</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SHOT_STUDIOS_MASTER\AIPatrolPoint.cpp">
+			<Filter>Source\SHOT_STUDIOS_MASTER</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SHOT_STUDIOS_MASTER\AIPatrolPoint.h">
 			<Filter>Source\SHOT_STUDIOS_MASTER</Filter>
 		</ClInclude >
 		<None Include="..\..\Source\SHOT_STUDIOS_MASTER\SHOT_STUDIOS_MASTER.Build.cs">
