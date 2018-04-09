@@ -27,6 +27,13 @@ public:
 
 	UPROPERTY(EditAnywhere, Category = AI)
 		class UBehaviorTree* BehaviourTree;
+
+	UPROPERTY(VisibleAnywhere, Category = AI)
+		class UPawnSensingComponent* PawnSensingComp;
 	
-	
+private:
+	UFUNCTION()
+		void OnPlayerCaught(APawn* Pawn);
+
+
 };
