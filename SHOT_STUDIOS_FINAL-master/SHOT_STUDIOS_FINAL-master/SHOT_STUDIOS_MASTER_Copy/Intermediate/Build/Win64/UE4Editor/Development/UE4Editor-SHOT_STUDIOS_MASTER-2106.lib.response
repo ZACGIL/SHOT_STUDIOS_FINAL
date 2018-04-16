@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SHOT_STUDIOS_MASTER-2106.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\UE4Editor\Development\SHOT_STUDIOS_MASTER\AIPatrol.cpp.obj"
+"C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\UE4Editor\Development\SHOT_STUDIOS_MASTER\AIPatrolController.cpp.obj"
+"C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\UE4Editor\Development\SHOT_STUDIOS_MASTER\AIPatrolPoint.cpp.obj"
+"C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\UE4Editor\Development\SHOT_STUDIOS_MASTER\BTSelectPatrolPoint.cpp.obj"
+"C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\UE4Editor\Development\SHOT_STUDIOS_MASTER\SHOT_STUDIOS_MASTER.cpp.obj"
+"C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\UE4Editor\Development\SHOT_STUDIOS_MASTER\AIPatrol.gen.cpp.obj"
+"C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\UE4Editor\Development\SHOT_STUDIOS_MASTER\AIPatrolController.gen.cpp.obj"
+"C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\UE4Editor\Development\SHOT_STUDIOS_MASTER\AIPatrolPoint.gen.cpp.obj"
+"C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\UE4Editor\Development\SHOT_STUDIOS_MASTER\BTSelectPatrolPoint.gen.cpp.obj"
+"C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\UE4Editor\Development\SHOT_STUDIOS_MASTER\SHOT_STUDIOS_MASTER.init.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\SHOT_STUDIOS_MASTER\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SHOT_STUDIOS_MASTER-2106.lib"

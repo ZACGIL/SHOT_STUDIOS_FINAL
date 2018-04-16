@@ -421,6 +421,8 @@
 		<ClInclude Include="..\..\Source\SHOT_STUDIOS_MASTER\AIPatrolController.h" />
 		<ClCompile Include="..\..\Source\SHOT_STUDIOS_MASTER\AIPatrolPoint.cpp" />
 		<ClInclude Include="..\..\Source\SHOT_STUDIOS_MASTER\AIPatrolPoint.h" />
+		<ClCompile Include="..\..\Source\SHOT_STUDIOS_MASTER\BTSelectPatrolPoint.cpp" />
+		<ClInclude Include="..\..\Source\SHOT_STUDIOS_MASTER\BTSelectPatrolPoint.h" />
 		<None Include="..\..\Source\SHOT_STUDIOS_MASTER\SHOT_STUDIOS_MASTER.Build.cs" />
 		<ClCompile Include="..\..\Source\SHOT_STUDIOS_MASTER\SHOT_STUDIOS_MASTER.cpp" />
 		<ClInclude Include="..\..\Source\SHOT_STUDIOS_MASTER\SHOT_STUDIOS_MASTER.h" />
