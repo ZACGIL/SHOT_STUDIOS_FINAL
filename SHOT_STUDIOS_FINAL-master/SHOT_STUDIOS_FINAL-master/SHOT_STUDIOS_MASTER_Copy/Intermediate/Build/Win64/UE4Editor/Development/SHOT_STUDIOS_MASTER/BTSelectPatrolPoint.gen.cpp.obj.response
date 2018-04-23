@@ -23,9 +23,9 @@
 /wd4838
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source"
-/I C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Source
-/I C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\UE4Editor\Inc\SHOT_STUDIOS_MASTER
-/I C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Source\SHOT_STUDIOS_MASTER
+/I C:\Users\ethompson3\Documents\GitHub\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Source
+/I C:\Users\ethompson3\Documents\GitHub\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\UE4Editor\Inc\SHOT_STUDIOS_MASTER
+/I C:\Users\ethompson3\Documents\GitHub\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Source\SHOT_STUDIOS_MASTER
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public"
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public\Async"
@@ -358,9 +358,9 @@
 /FI"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\UE4Editor\Inc\SHOT_STUDIOS_MASTER\BTSelectPatrolPoint.gen.cpp"
-/FI"C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\UE4Editor\Development\SHOT_STUDIOS_MASTER\Definitions.SHOT_STUDIOS_MASTER.h"
-/Fo"C:\Users\vangeles2\Desktop\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\UE4Editor\Development\SHOT_STUDIOS_MASTER\BTSelectPatrolPoint.gen.cpp.obj"
+"C:\Users\ethompson3\Documents\GitHub\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\UE4Editor\Inc\SHOT_STUDIOS_MASTER\BTSelectPatrolPoint.gen.cpp"
+/FI"C:\Users\ethompson3\Documents\GitHub\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\UE4Editor\Development\SHOT_STUDIOS_MASTER\Definitions.SHOT_STUDIOS_MASTER.h"
+/Fo"C:\Users\ethompson3\Documents\GitHub\SHOT_STUDIOS_FINAL\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_FINAL-master\SHOT_STUDIOS_MASTER_Copy\Intermediate\Build\Win64\UE4Editor\Development\SHOT_STUDIOS_MASTER\BTSelectPatrolPoint.gen.cpp.obj"
 /TP
 /GR-
 /W4
